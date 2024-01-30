@@ -1,23 +1,33 @@
 # LalehAE.github.io
 
-#Welcome to Laleh's Data Science Portfolio
+# Welcome to Laleh's Data Science Portfolio
 
-##About Me
+## About Me
 Hello! I'm Laleh, a passionate data scientist with a focus on machine learning and AI. With a background in Data Science, Mathematics and Executive Management. I leverage data to drive decision-making and uncover insights.
 
 ##Projects
 Here you'll find a selection of my projects showcasing my skills in GenAI, Machine Learning and data analysis. Each project includes a detailed README with an overview, methodologies, and key findings.
 
-![Project Screenshot](/Users/lalehasadzadeh/Documents/MyPortfolioGit/LalehAE.github.io/images/GenAI.webp) ### Autonomous ETL & Data Analytics:
+<p style="margin-bottom: 80px;">
+  <img src="images/GenAI.png" alt="Project Image" width="100" align="left" />
+  <b>Autonomous ETL & Data Analytics</b>
+</p>
+<p style="margin-bottom: 80px;">
+<p>
+  <img src="images/Aircraft.png" alt="Project Image" width="100" align="left" />
+  <b>Aircraft Turnaround Project</b>
+</p>
+<p style="margin-bottom: 100px;">
+<p>
+  <img src="images/Cohort.png" alt="Project Image" width="100" align="left" />
+  <b>Cohort Churn Analysis</b>
+</p>
 
-### Aircraft Turnaround Project at Userdata Sdn Bhd:
 
-### Cohort Churn Analysis at Mindvalley:
 
 ### Social Media Recommender Engines:
 
-
-### Customer churn prediction
+### Personal Loan Default Prediction
 
 ### Equipment maintenance analysis
 
