@@ -15,15 +15,15 @@ Here you'll find a selection of my projects showcasing my skills in GenAI, Machi
 </head>
 <body>
   <div class="project">
-    <img src="images/GenAI.png" alt="Project Image" width="100" align="left" />
+    <img src="images/GenAI.png" alt="Project Image" width="200" align="left" />
     <b>Autonomous ETL & Data Analytics</b>
   </div>
   <div class="project">
-  <img src="images/Aircraft.png" alt="Project Image" width="100" align="left" />
+  <img src="images/Aircraft.png" alt="Project Image" width="200" align="left" />
   <b>Aircraft Turnaround Project</b>
 </div>
 <div class="project">
-  <img src="images/Cohort.png" alt="Project Image" width="100" align="left" />
+  <img src="images/Cohort.png" alt="Project Image" width="200" align="left" />
   <b>Cohort Churn Analysis</b>
 </div>
 </body>
