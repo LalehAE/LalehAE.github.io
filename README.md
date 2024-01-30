@@ -8,19 +8,26 @@ Hello! I'm Laleh, a passionate data scientist with a focus on machine learning a
 ##Projects
 Here you'll find a selection of my projects showcasing my skills in GenAI, Machine Learning and data analysis. Each project includes a detailed README with an overview, methodologies, and key findings.
 
-<p style="margin-bottom: 80px;">
-  <img src="images/GenAI.png" alt="Project Image" width="100" align="left" />
-  <b>Autonomous ETL & Data Analytics</b>
-</p>
-<p style="margin-bottom: 80px;">
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <div class="project">
+    <img src="images/GenAI.png" alt="Project Image" width="100" align="left" />
+    <b>Autonomous ETL & Data Analytics</b>
+  </div>
+  <div class="project">
   <img src="images/Aircraft.png" alt="Project Image" width="100" align="left" />
   <b>Aircraft Turnaround Project</b>
-</p>
-<p style="margin-bottom: 80px;">
+</div>
+<div class="project">
   <img src="images/Cohort.png" alt="Project Image" width="100" align="left" />
   <b>Cohort Churn Analysis</b>
-</p>
-
+</div>
+</body>
+</html>
 
 
 

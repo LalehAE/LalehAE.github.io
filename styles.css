@@ -1,0 +1,11 @@
+/* styles.css */
+.project {
+    clear: both;
+    margin-bottom: 80px;
+  }
+  
+  .project img {
+    float: left;
+    margin-right: 10px;
+  }
+  
