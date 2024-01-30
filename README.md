@@ -38,21 +38,27 @@ Here you'll find a selection of my projects showcasing my skills in GenAI, Machi
 
 ### Equipment maintenance analysis
 
-##Skills
+## Skills
 **Programming:** Python (NumPy, Pandas, Scikit-Learn, Keras, NLTK, SciPy), SQL, R, Spark 
+
 **Machine Learning:** Linear Regression, Regularisation (Ridge, Lasso, Elastic), Logistic Regression, Naive Bayes, Decision Tree, Random Forest, Catboost, Xgboost, Lightgbm, K-Nearest Neighbour (KNN), Support Vector Machine (SVM), Clustering (K-Means, Hierarchical Clustering, DBSCAN), Dimension Reduction (PCA, T-SNE), NLP(BERT, LaBSE)
+
 **Statistical Analysis:** Descriptive & Inferential Statistics, Regression Modeling & Evaluation, Time Series Forecasting
+
 **Technologies:** Large Language Models (LLM), Microsoft Azure Cloud Platform, Databricks, Google Cloud Platform, FastAPI, Airflow, Kubeflow
+
 **BI Tools:** Tableau, Google Data Studio
+
 **Industries:** Data Infrastructure and Analytics, E-Learning, Technology Information and Internet
+
 **Soft Skills:** Problem-solving, Communication, Teamwork
 
-##Education
+## Education
 **MSc, Southern Illinois University**, Computer Science, United States
 **MBA, Industrial Management Institute**, Executive Management, Iran
 **MSc, Sharif University of Technology**, Mathematics, Iran
 **BSc, Isfahan University of Technology**, Mathematics, Iran 
 
 
-##Contact Me
+## Contact Me
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lalehas/) or email me at la.asadzadeh@gmail.com.
