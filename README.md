@@ -16,7 +16,7 @@ Here you'll find a selection of my projects showcasing my skills in GenAI, Machi
 <body>
 <div class="project">
   <div class="image">
-    <img src="images/GenAI.png" alt="Project Image" width="100" align="left" />
+    <img src="images/GenAI.png" alt="Project Image" width="150" align="left" />
   </div>
   <div class="title">
     <b>Autonomous ETL & Data Analytics</b>
@@ -24,7 +24,7 @@ Here you'll find a selection of my projects showcasing my skills in GenAI, Machi
 </div>
 <div class="project">
   <div class="image">
-    <img src="images/Aircraft.png" alt="Project Image" width="100" align="left" />
+    <img src="images/Aircraft.png" alt="Project Image" width="150" align="left" />
   </div>
   <div class="title">
     <b>Aircraft Turnaround Project</b>
@@ -32,7 +32,7 @@ Here you'll find a selection of my projects showcasing my skills in GenAI, Machi
 </div>
 <div class="project">
   <div class="image">
-    <img src="images/Cohort.png" alt="Project Image" width="100" align="left" />
+    <img src="images/Cohort.png" alt="Project Image" width="150" align="left" />
   </div>
   <div class="title">
     <b>Cohort Churn Analysis</b>
