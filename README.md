@@ -1,3 +1,41 @@
 # LalehAE.github.io
 
-Introducing myself as data scientist by briefly mentioning some of the recent projects I have done as part of my job. No sample code included due to the company privacy. 
+#Welcome to Laleh's Data Science Portfolio
+
+##About Me
+Hello! I'm Laleh, a passionate data scientist with a focus on machine learning and AI. With a background in Data Science, Mathematics and Executive Management. I leverage data to drive decision-making and uncover insights.
+
+##Projects
+Here you'll find a selection of my projects showcasing my skills in GenAI, Machine Learning and data analysis. Each project includes a detailed README with an overview, methodologies, and key findings.
+
+![Project Screenshot](/Users/lalehasadzadeh/Documents/MyPortfolioGit/LalehAE.github.io/images/GenAI.webp) ### Autonomous ETL & Data Analytics:
+
+### Aircraft Turnaround Project at Userdata Sdn Bhd:
+
+### Cohort Churn Analysis at Mindvalley:
+
+### Social Media Recommender Engines:
+
+
+### Customer churn prediction
+
+### Equipment maintenance analysis
+
+##Skills
+**Programming:** Python (NumPy, Pandas, Scikit-Learn, Keras, NLTK, SciPy), SQL, R, Spark 
+**Machine Learning:** Linear Regression, Regularisation (Ridge, Lasso, Elastic), Logistic Regression, Naive Bayes, Decision Tree, Random Forest, Catboost, Xgboost, Lightgbm, K-Nearest Neighbour (KNN), Support Vector Machine (SVM), Clustering (K-Means, Hierarchical Clustering, DBSCAN), Dimension Reduction (PCA, T-SNE), NLP(BERT, LaBSE)
+**Statistical Analysis:** Descriptive & Inferential Statistics, Regression Modeling & Evaluation, Time Series Forecasting
+**Technologies:** Large Language Models (LLM), Microsoft Azure Cloud Platform, Databricks, Google Cloud Platform, FastAPI, Airflow, Kubeflow
+**BI Tools:** Tableau, Google Data Studio
+**Industries:** Data Infrastructure and Analytics, E-Learning, Technology Information and Internet
+**Soft Skills:** Problem-solving, Communication, Teamwork
+
+##Education
+**MSc, Southern Illinois University**, Computer Science, United States
+**MBA, Industrial Management Institute**, Executive Management, Iran
+**MSc, Sharif University of Technology**, Mathematics, Iran
+**BSc, Isfahan University of Technology**, Mathematics, Iran 
+
+
+##Contact Me
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lalehas/) or email me at la.asadzadeh@gmail.com.
