@@ -1,14 +1,14 @@
 .project {
     clear: both;
-    margin-bottom: 180px;
+    margin-bottom: 800px;
   }
   
-  .project .image {
+.project .image {
     float: left;
     margin-right: 10px;
   }
   
-  .project .title {
+.project .title {
     overflow: hidden; /* Clear any floats within the title div */
   }
   

@@ -20,8 +20,10 @@ Here you'll find a selection of my projects showcasing my skills in GenAI, Machi
   </div>
   <div class="title">
     <b>Autonomous ETL & Data Analytics</b>
+    Empowering businesses to harness their data effortlessly, this project utilizes *AI agents* created with *OpenAI* and *LangChain* to navigate complex databases, like SAP, without requiring deep database knowledge. It features an innovative AI-driven system that interprets user queries, identifies relevant data, and autonomously generates Python scripts for analysis. The system further advises on visualization and business insights, streamlining decision-making and fostering a culture of data-driven intelligence.
   </div>
 </div>
+
 <div class="project">
   <div class="image">
     <img src="images/Aircraft.png" alt="Project Image" width="150" align="left" />
@@ -32,23 +34,31 @@ Here you'll find a selection of my projects showcasing my skills in GenAI, Machi
 </div>
 <div class="project">
   <div class="image">
+    <img src="images/Social.png" alt="Project Image" width="150" align="left" />
+  </div>
+  <div class="title">
+    <b>Social Media Recommender Engine</b>
+  </div>
+</div>
+<div class="project">
+  <div class="image">
     <img src="images/Cohort.png" alt="Project Image" width="150" align="left" />
   </div>
   <div class="title">
     <b>Cohort Churn Analysis</b>
   </div>
 </div>
+<div class="project">
+  <div class="image">
+    <img src="images/Loan.png" alt="Project Image" width="150" align="left" />
+  </div>
+  <div class="title">
+    <b>Loan Default Prediction</b>
+  </div>
+</div>
 </body>
 </html>
-
-
-
-
-### Social Media Recommender Engines:
-
-### Personal Loan Default Prediction
-
-### Equipment maintenance analysis
+ 
 
 ## Skills
 **Programming:** Python (NumPy, Pandas, Scikit-Learn, Keras, NLTK, SciPy), SQL, R, Spark 
