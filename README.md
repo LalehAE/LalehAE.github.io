@@ -5,13 +5,36 @@
 ## About Me
 Hello! I'm Laleh, a passionate data scientist with a focus on machine learning and AI. With a background in Data Science, Mathematics and Executive Management. I leverage data to drive decision-making and uncover insights.
 
-##Projects
+## Projects
 Here you'll find a selection of my projects showcasing my skills in GenAI, Machine Learning and data analysis. Each project includes a detailed README with an overview, methodologies, and key findings.
 
 <!DOCTYPE html>
 <html>
 <head>
   <link rel="stylesheet" type="text/css" href="styles.css">
+  <style>
+    .project {
+      display: flex;
+      align-items: flex-start;
+      margin-bottom: 20px;
+    }
+    .image {
+      margin-right: 20px;
+    }
+    .title {
+      flex: 1;
+    }
+    .title p {
+      margin: 0;
+    }
+    .title a {
+      color: SlateBlue;
+      text-decoration: none; /* Optional: if you want to remove the underline from links */
+    }
+    .title a:hover {
+      text-decoration: underline; /* Optional: if you want to add underline on hover */
+    }
+  </style>
 </head>
 <body>
 <div class="project">
