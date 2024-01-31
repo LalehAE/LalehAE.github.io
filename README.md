@@ -27,29 +27,34 @@ Here you'll find a selection of my projects showcasing my skills in GenAI, Machi
     .title p {
       margin: 0;
     }
+    .title b {
+      color: SlateBlue;
+    }
     .title a {
       color: SlateBlue;
-      text-decoration: none; /* Optional: if you want to remove the underline from links */
+      text-decoration: none;
     }
     .title a:hover {
-      text-decoration: underline; /* Optional: if you want to add underline on hover */
+      text-decoration: underline;
     }
   </style>
 </head>
 <body>
+
 <div class="project">
   <div class="image">
-    <img src="images/GenAI.png" alt="Project Image" width="150" style="float:left; margin-right: 10px;" />
+    <img src="images/GenAI.png" alt="Project Image" width="150" />
   </div>
   <div class="title">
-    <p><b style="color: SlateBlue;">Autonomous ETL & Data Analytics</b><br></p>
-    <p>Empowering businesses to harness their data effortlessly, this project utilizes <i>AI agents</i> created with <i>OpenAI</i> and <i>LangChain</i> to navigate complex databases, like SAP, without requiring deep database knowledge. It features an innovative AI-driven system that interprets user queries, identifies relevant data, and autonomously generates Python scripts for analysis. The system further advises on visualization and business insights, streamlining decision-making and fostering a culture of data-driven intelligence.</p>
+    <p><b>Autonomous ETL & Data Analytics</b></p>
+    <p>Empowering businesses to harness their data effortlessly, this project utilizes AI agents created with OpenAI and LangChain to navigate complex databases, like SAP, without requiring deep database knowledge. It features an innovative AI-driven system that interprets user queries, identifies relevant data, and autonomously generates Python scripts for analysis. The system further advises on visualization and business insights, streamlining decision-making and fostering a culture of data-driven intelligence.</p>
     <p><a href="pages/GenAI.html">Learn More</a></p>
   </div>
 </div>
+
 <div class="project">
   <div class="image">
-    <img src="images/Aircraft.png" alt="Aircraft Turnaround Project Image" width="150" style="float:left; margin-right: 10px;" />
+    <img src="images/Aircraft.png" alt="Aircraft Turnaround Project Image" width="150" />
   </div>
   <div class="title">
     <p><b style="color: SlateBlue;">Aircraft Turnaround</b><br></p>
@@ -59,7 +64,7 @@ Here you'll find a selection of my projects showcasing my skills in GenAI, Machi
 </div>
 <div class="project">
   <div class="image">
-    <img src="images/Social.png" alt="Social Media Recommender Engine Image" width="150" style="float:left; margin-right: 10px;" />
+    <img src="images/Social.png" alt="Social Media Recommender Engine Image" width="150"  />
   </div>
   <div class="title">
     <p><b style="color: SlateBlue;">Social Media Recommender Engine</b><br></p>
@@ -69,7 +74,7 @@ Here you'll find a selection of my projects showcasing my skills in GenAI, Machi
 </div>
 <div class="project">
   <div class="image">
-    <img src="images/Cohort.png" alt="Cohort Churn Analysis Project Image" width="150" style="float:left; margin-right: 10px;" />
+    <img src="images/Cohort.png" alt="Cohort Churn Analysis Project Image" width="150"  />
   </div>
   <div class="title">
     <p><b style="color: SlateBlue;">Cohort Churn Analysis</b><br></p>
@@ -86,6 +91,7 @@ Here you'll find a selection of my projects showcasing my skills in GenAI, Machi
     <b>Loan Default Prediction</b>
   </div>
 </div>
+
 </body>
 </html>
  
