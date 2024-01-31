@@ -16,38 +16,45 @@ Here you'll find a selection of my projects showcasing my skills in GenAI, Machi
 <body>
 <div class="project">
   <div class="image">
-    <img src="images/GenAI.png" alt="Project Image" width="150" align="left" />
+    <img src="images/GenAI.png" alt="Project Image" width="150" style="float:left; margin-right: 10px;" />
   </div>
   <div class="title">
-    <b>Autonomous ETL & Data Analytics</b>
-    Empowering businesses to harness their data effortlessly, this project utilizes *AI agents* created with *OpenAI* and *LangChain* to navigate complex databases, like SAP, without requiring deep database knowledge. It features an innovative AI-driven system that interprets user queries, identifies relevant data, and autonomously generates Python scripts for analysis. The system further advises on visualization and business insights, streamlining decision-making and fostering a culture of data-driven intelligence.
+    <p><b style="color: SlateBlue;">Autonomous ETL & Data Analytics</b><br></p>
+    <p>Empowering businesses to harness their data effortlessly, this project utilizes <i>AI agents</i> created with <i>OpenAI</i> and <i>LangChain</i> to navigate complex databases, like SAP, without requiring deep database knowledge. It features an innovative AI-driven system that interprets user queries, identifies relevant data, and autonomously generates Python scripts for analysis. The system further advises on visualization and business insights, streamlining decision-making and fostering a culture of data-driven intelligence.</p>
+    <p><a href="pages/GenAI.html">Learn More</a></p>
+  </div>
+</div>
+<div class="project">
+  <div class="image">
+    <img src="images/Aircraft.png" alt="Aircraft Turnaround Project Image" width="150" style="float:left; margin-right: 10px;" />
+  </div>
+  <div class="title">
+    <p><b style="color: SlateBlue;">Aircraft Turnaround</b><br></p>
+    <p>Innovating airport operations, this application empowers airline managers with real-time monitoring of aircraft turnaround. It uses advanced computer vision and a Yolo model to analyze CCTV footage, annotate events, and present live dashboards via Azure, reducing delays and enhancing efficiency.</p>
+    <p><a href="pages/Aircraft.html">Learn More</a></p>
+  </div>
+</div>
+<div class="project">
+  <div class="image">
+    <img src="images/Social.png" alt="Social Media Recommender Engine Image" width="150" style="float:left; margin-right: 10px;" />
+  </div>
+  <div class="title">
+    <p><b style="color: SlateBlue;">Social Media Recommender Engine</b><br></p>
+    <p>A cutting-edge POC that transforms social connectivity by leveraging deep learning to analyze user data and match profiles with shared interests and goals. The innovative use of LaBSE for vector embeddings and cosine similarity scores significantly outperforms traditional clustering, readying the system for expansion to a broader user base.</p>
+    <p><a href="pages/Social.html">Learn More</a></p>
+  </div>
+</div>
+<div class="project">
+  <div class="image">
+    <img src="images/Cohort.png" alt="Cohort Churn Analysis Project Image" width="150" style="float:left; margin-right: 10px;" />
+  </div>
+  <div class="title">
+    <p><b style="color: SlateBlue;">Cohort Churn Analysis</b><br></p>
+    <p>Delving into user retention, this analysis informed strategic adjustments by evaluating churn rates across various memberships. Collaborative efforts in defining churn and securing necessary data culminated in live churn data tables and dashboards, influencing the company's decision to optimize its membership focus.</p>
+    <p><a href="path/to/Cohort.html">Learn More</a></p>
   </div>
 </div>
 
-<div class="project">
-  <div class="image">
-    <img src="images/Aircraft.png" alt="Project Image" width="150" align="left" />
-  </div>
-  <div class="title">
-    <b>Aircraft Turnaround Project</b>
-  </div>
-</div>
-<div class="project">
-  <div class="image">
-    <img src="images/Social.png" alt="Project Image" width="150" align="left" />
-  </div>
-  <div class="title">
-    <b>Social Media Recommender Engine</b>
-  </div>
-</div>
-<div class="project">
-  <div class="image">
-    <img src="images/Cohort.png" alt="Project Image" width="150" align="left" />
-  </div>
-  <div class="title">
-    <b>Cohort Churn Analysis</b>
-  </div>
-</div>
 <div class="project">
   <div class="image">
     <img src="images/Loan.png" alt="Project Image" width="150" align="left" />
