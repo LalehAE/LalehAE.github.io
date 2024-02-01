@@ -21,19 +21,19 @@ Empowering businesses to harness their data effortlessly, this project utilizes 
 
 Innovating airport operations, this application empowers airline managers with real-time monitoring of aircraft turnaround. It uses advanced computer vision and a Yolo model to analyze CCTV footage, annotate events, and present live dashboards via Azure, reducing delays and enhancing efficiency. 
 
-#
+<br>
 
 <img align="left" width="150" height="150" src="images/Social.png"> **[Social Media Recommender Engine](https://LalehAE.github.io/pages/Social.html)**
 
 A cutting-edge POC that transforms social connectivity by leveraging deep learning to analyze user data and match profiles with shared interests and goals. The innovative use of LaBSE for vector embeddings and cosine similarity scores significantly outperforms traditional clustering, readying the system for expansion to a broader user base. 
 
-<br><br>
+<br><br><br><br>
 
  <img align="left" width="150" height="150" src="images/Cohort.png"> **[Cohort Churn Analysis](https://LalehAE.github.io/pages/Cohort.html)**
 
 Delving into user retention, this analysis informed strategic adjustments by evaluating churn rates across various memberships. Collaborative efforts in defining churn and securing necessary data culminated in live churn data tables and dashboards, influencing the company's decision to optimize its membership focus. 
 
-<br>
+<br><br><br>
 
 ##  Core Competencies
 - **Programming:** Python (NumPy, Pandas, Scikit-Learn, Keras, NLTK, SciPy), SQL, R, Spark 
