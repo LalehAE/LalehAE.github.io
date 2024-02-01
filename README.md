@@ -31,8 +31,9 @@ A cutting-edge POC that transforms social connectivity by leveraging deep learni
 
  <img align="left" width="200" height="200" src="images/Cohort.png"> **[Cohort Churn Analysis](pages/Cohort.html)**
 
-Delving into user retention, this analysis informed strategic adjustments by evaluating churn rates across various memberships. Collaborative efforts in defining churn and securing necessary data culminated in live churn data tables and dashboards, influencing the company's decision to optimize its membership focus.[Learn More]("pages/Cohort.html")  
+Delving into user retention, this analysis informed strategic adjustments by evaluating churn rates across various memberships. Collaborative efforts in defining churn and securing necessary data culminated in live churn data tables and dashboards, influencing the company's decision to optimize its membership focus. [Learn More]("pages/Cohort.html")  
 
+<br />
 
 ##  Core Competencies
 - **Programming:** Python (NumPy, Pandas, Scikit-Learn, Keras, NLTK, SciPy), SQL, R, Spark 
