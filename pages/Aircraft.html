@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aircraft Turnaround</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        h2 {
+            color: #333;
+            font-size: 1.5em;
+        }
+        p {
+            color: #666;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Aircraft Turnaround</h1>
+        <h2>Objective</h2>
+        <p>The Aircraft Turnaround Project is conceived with the objective of enhancing operational efficiency at airports. 
+            This innovative application serves as a strategic tool for airline managers, enabling them to monitor aircraft 
+            turnaround activities in real-time. By leveraging this solution, managers can swiftly identify potential delays 
+            and optimize resource allocation, thus minimizing the risk of operational disruptions.</p>
+        <h2>Methodology</h2>
+        <p>This project is distinguished by its application of advanced computer vision techniques. 
+            A Yolo model, renowned for its object detection capabilities, has been meticulously trained to scrutinize 
+            each frame of the CCTV footage capturing the turnaround process. Upon receipt of a video request via FastAPI, 
+            the footage undergoes a rigorous analysis by the Inference function. Each frame is annotated with precision, 
+            and a detailed JSON file encapsulating the identified objects, their corresponding timestamps, and spatial 
+            coordinates is generated. This rich dataset is securely stored within Azure blob storage.</p>
+        <h2>Implementation</h2>
+        <p>A dedicated Azure web app has been developed to interface seamlessly with the blob storage. 
+            It extracts the stored data to curate intuitive dashboards that provide live updates of the turnaround process. 
+            The next phase of the project aims to advance the system's capabilities by incorporating event detection algorithms. 
+            These will evaluate the location and movement of specific objects to predict and signal crucial turnaround events, 
+            further streamlining the process.<p>
+        <h2>Impact</h2>
+        <p>Through the incorporation of cutting-edge technology into real-world operations, the Aircraft Turnaround Project 
+            represents a notable advancement in proactive airport management. 
+            This initiative not only provides airline managers with comprehensive information but also 
+            empowers them to proactively address potential delays, ultimately enhancing the efficiency and 
+            reliability of the turnaround operation.</p>
+    </div>
+</body>
+</html>
