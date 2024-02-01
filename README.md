@@ -51,7 +51,10 @@ Delving into user retention, this analysis informed strategic adjustments by eva
 - **Soft Skills:** Problem-solving, Communication, Teamwork
 
 ## Education
-**MSc, Southern Illinois University**, Computer Science, United States
-**MBA, Industrial Management Institute**, Executive Management, Iran
-**MSc, Sharif University of Technology**, Mathematics, Iran
-**BSc, Isfahan University of Technology**, Mathematics, Iran 
+- **MSc, Southern Illinois University**, Computer Science, United States
+
+- **MBA, Industrial Management Institute**, Executive Management, Iran
+
+- **MSc, Sharif University of Technology**, Mathematics, Iran
+
+- **BSc, Isfahan University of Technology**, Mathematics, Iran 
