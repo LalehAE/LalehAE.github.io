@@ -20,11 +20,7 @@ Empowering businesses to harness their data effortlessly, this project utilizes 
 <img align="left" width="200" height="200" src="images/Aircraft.png"> **[Aircraft Turnaround](pages/Aircraft.html)**
 
 Innovating airport operations, this application empowers airline managers with real-time monitoring of aircraft turnaround. It uses advanced computer vision and a Yolo model to analyze CCTV footage, annotate events, and present live dashboards via Azure, reducing delays and enhancing efficiency. [Learn More]("pages/Aircraft.html")  
-uvyugu gy 
-uvtguygk
-ibuyiuy
- ygygyhg
-
+Innovating airport operations, this application empowers airline managers with real-time monitoring of aircraft turnaround. It uses advanced computer vision and a Yolo model to analyze CCTV footage, annotate events, and present live dashboards via Azure, reducing delays
 
 #
 
