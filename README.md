@@ -23,6 +23,9 @@ Innovating airport operations, this application empowers airline managers with r
 
 #
 
+
+
+
 <img align="left" width="200" height="200" src="images/Social.png"> **[Social Media Recommender Engine](pages/Social.html)**
 
 A cutting-edge POC that transforms social connectivity by leveraging deep learning to analyze user data and match profiles with shared interests and goals. The innovative use of LaBSE for vector embeddings and cosine similarity scores significantly outperforms traditional clustering, readying the system for expansion to a broader user base. [Learn More]("pages/Social.html")  
