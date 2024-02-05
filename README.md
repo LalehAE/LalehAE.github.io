@@ -60,6 +60,6 @@ Delving into user retention, this analysis informed strategic adjustments by eva
 
 ## CONFERENCE PUBLICATIONS & PRESENTATIONS
 -	**Laleh, A.** (2019, March). Data Science: Demystifying Technical Terms, Data for Her, Shell Malaysia
--	**Laleh, A.** (2018, June). Data Science Industry, Presentation, British Council Malaysia, [Link](https://www.youtube.com/watch?v=Tuuv-X8c5ts)
+-	**Laleh, A.** (2018, June). Data Science Industry, Presentation, British Council Malaysia, [Watch My Talk](https://www.youtube.com/watch?v=Tuuv-X8c5ts)
 -	**Laleh, A.**, & Shahram, R. (2017, December). Analyzing Facebook Activities for Personality Recognition. In *Machine Learning and Applications (ICMLA), 2017 16th IEEE International Conference* on (pp. 960-964). IEEE. 
 
