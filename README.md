@@ -3,10 +3,34 @@
 # Welcome to Laleh's Data Science Portfolio
 
 ## About Me
-Hello! I'm Laleh, a passionate data scientist with a focus on machine learning and AI. With a background in Data Science, Mathematics and Executive Management. I leverage data to drive decision-making and uncover insights.
+Hello! I'm Laleh, a passionate data scientist with a focus on machine learning and AI. My journey in data science is underscored by a foundation in mathematics and executive management, where leveraging data for decision-making and insight discovery is at the core of what I do.
 
-- **Email**: [la.asadzadeh@gmail.com](la.asadzadeh@gmail.com)
+A unique and memorable moment in my professional journey was when my manager, Zach, presented me with a piece of art as a Valentine's gift. More than a thoughtful gesture, this artwork used the VALENTINE alphabet to encapsulate qualities he saw in me, qualities that I strive to embody in my professional and personal interactions:
+
+- **Valued for counsel**: What should I do?
+- **Attend to our need**: We all need ...
+- **Loves the students**:  I am so proud
+- **Enjoy a challenge**: That sounds difficult. Let me ...
+- **No sub-par work, ever**: This is not up to our standard
+- **Truth to stupid**: You are wrong. Here is why ...
+- **Infectious laughter**: HA HA HA HA HA
+- **Noble Patience**: You will get there
+- **Earnest**: Let me share my feelings
+
+![Zach's Artwork for Laleh](path/to/zachs_artwork.jpg) _"Valentine Alphabet for Laleh," a creative expression of the traits that I bring to my professional endeavors._
+
+Each of these attributes, represented through Zach's creative lens, highlights the blend of technical expertise, leadership, and interpersonal skills I bring to the field of data science. It's a reminder of the impact we can have through our work, the value of clear communication and empathy, and the importance of maintaining a positive, earnest approach in all our endeavors.
+
+- **Email**: [la.asadzadeh@gmail.com](mailto:la.asadzadeh@gmail.com)
 - **LinkedIn**: [linkedin.com/lalehas](https://www.linkedin.com/in/lalehas/)
+
+
+
+![Zach's Artwork for Laleh](path/to/zachs_artwork.jpg) _"Title of Artwork" by Zach, a visual representation of [briefly describe]_
+
+- **Email**: [la.asadzadeh@gmail.com](mailto:la.asadzadeh@gmail.com)
+- **LinkedIn**: [linkedin.com/lalehas](https://www.linkedin.com/in/lalehas/)
+
 
 ## Projects
 Here is a curated collection of my projects, each meticulously detailed with information on the objective, methodology, and implementation. Within this collection, you'll discover comprehensive insights into my projects, with each one thoroughly explained in terms of its objective, methodology, and implementation aspects. Notably, the GenAI project is accompanied by a sample code repository, offering a tangible glimpse into the practical application of its underlying solution.
