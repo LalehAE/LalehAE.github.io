@@ -1,0 +1,9 @@
+title: Laleh's Data Science Portfolio
+description: Showcasing my work in data science, machine learning, and AI.
+baseurl: "" # the subpath of your site, e.g. "/blog"
+url: "" # the base hostname & protocol for your site, e.g. "http://example.com"
+
+# Branding
+brand_color: "#5B84B1FF"
+accent_color: "#FC766AFF"
+font_family: "Georgia, serif"
