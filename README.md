@@ -61,5 +61,18 @@ Delving into user retention, this analysis informed strategic adjustments by eva
 ## CONFERENCE PUBLICATIONS & PRESENTATIONS
 -	**Laleh, A.** (2019, March). Data Science: Demystifying Technical Terms, Data for Her, Shell Malaysia
 -	**Laleh, A.** (2018, June). Data Science Industry, Presentation, British Council Malaysia, [Watch My Talk](https://www.youtube.com/watch?v=Tuuv-X8c5ts)
--	**Laleh, A.**, & Shahram, R. (2017, December). Analyzing Facebook Activities for Personality Recognition. In *Machine Learning and Applications (ICMLA), 2017 16th IEEE International Conference* on (pp. 960-964). IEEE. 
+-	**Laleh, A.**, & Shahram, R. (2017, December). Analyzing Facebook Activities for Personality Recognition. In *Machine Learning and Applications (ICMLA), 2017 16th IEEE International Conference* on (pp. 960-964). IEEE.
+
+## Professional Endorsements
+
+> "Laleh has been a valuable member of the CADS data science team, with deep understanding of statistics, time-series analysis and machine learning, eager to work and find innovative ways to solve any project/puzzle she would face. All the best in your next endeavors!"
+> **- Stamatis Kourtis, Chief Data Officer at The Center of Applied Data Science** [View LinkedIn Profile](https://www.linkedin.com/in/stamatis-kourtis-3624121/)
+
+> "I always enjoy working with Laleh. She's forthright, persistent, and capable of changing her mind based on data. The last trait is my favorite. You can always count on her to stat the facts and then her thoughts on the facts in context to the situation/problem. Oh, and she's amazing at the more technical elements of Machine Learning, Inferential Stats, Times Series forecasting, and on and on. 
+
+Laleh is a great asset to my or any team."
+> **- Zachary Johnson, Chief Product Officer  at The Center of Applied Data Science** [View LinkedIn Profile](https://www.linkedin.com/in/zjamesjohnson/)
+
+> "I had the chance of teaching Management Of Technology and Innovation to L.A. (not "Los Angeles"! I mean Ms. Laleh Asadzadeh) and her nice classmates at IMI in Spetember 2012. I found her very talented, enthusiastic, involved and serious at studies. I really enjoyed speaking at their class, especially with a number of outstanding students like Ms. Asadzadeh."
+> **- Fariborz Davarpanah, Lecturer at Industrial Management Institute** [View LinkedIn Profile](https://www.linkedin.com/in/fariborz-davarpanah-4a9ba536/)
 
