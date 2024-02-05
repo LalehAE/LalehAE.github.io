@@ -17,20 +17,12 @@ A unique and memorable moment in my professional journey was when my manager, Za
 - **Noble Patience**: You will get there
 - **Earnest**: Let me share my feelings
 
-![Zach's Artwork for Laleh](path/to/zachs_artwork.jpg) _"Valentine Alphabet for Laleh," a creative expression of the traits that I bring to my professional endeavors._
+![Zach's Artwork for Laleh](images/zach.png) _"Valentine Alphabet for Laleh," a creative expression of the traits that I bring to my professional endeavors._
 
 Each of these attributes, represented through Zach's creative lens, highlights the blend of technical expertise, leadership, and interpersonal skills I bring to the field of data science. It's a reminder of the impact we can have through our work, the value of clear communication and empathy, and the importance of maintaining a positive, earnest approach in all our endeavors.
 
 - **Email**: [la.asadzadeh@gmail.com](mailto:la.asadzadeh@gmail.com)
 - **LinkedIn**: [linkedin.com/lalehas](https://www.linkedin.com/in/lalehas/)
-
-
-
-![Zach's Artwork for Laleh](path/to/zachs_artwork.jpg) _"Title of Artwork" by Zach, a visual representation of [briefly describe]_
-
-- **Email**: [la.asadzadeh@gmail.com](mailto:la.asadzadeh@gmail.com)
-- **LinkedIn**: [linkedin.com/lalehas](https://www.linkedin.com/in/lalehas/)
-
 
 ## Projects
 Here is a curated collection of my projects, each meticulously detailed with information on the objective, methodology, and implementation. Within this collection, you'll discover comprehensive insights into my projects, with each one thoroughly explained in terms of its objective, methodology, and implementation aspects. Notably, the GenAI project is accompanied by a sample code repository, offering a tangible glimpse into the practical application of its underlying solution.
