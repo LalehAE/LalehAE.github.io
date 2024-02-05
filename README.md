@@ -41,13 +41,13 @@ Delving into user retention, this analysis informed strategic adjustments by eva
 
 - **Statistical Analysis:** Descriptive & Inferential Statistics, Regression Modeling & Evaluation, Time Series Forecasting
 
-- **Technologies:** Large Language Models (LLM), Microsoft Azure Cloud Platform, Databricks, Google Cloud Platform, FastAPI, Airflow, Kubeflow
+- **Technologies:** Large Language Models (LLM), Microsoft Azure Cloud Platform, Databricks, Google Cloud Platform, Airflow, Kubeflow
 
 - **BI Tools:** Tableau, Google Data Studio
 
 - **Industries:** Data Infrastructure and Analytics, E-Learning, Technology Information and Internet
 
-- **Soft Skills:** Problem-solving, Communication, Teamwork
+- **Soft Skills:** Problem-solving, Communication, Leadership, Critical Thinking, Attention to Detail, Cultural Competence
 
 ## Education
 - **MSc, Southern Illinois University**, Computer Science, United States
@@ -56,4 +56,10 @@ Delving into user retention, this analysis informed strategic adjustments by eva
 
 - **MSc, Sharif University of Technology**, Mathematics, Iran
 
-- **BSc, Isfahan University of Technology**, Mathematics, Iran 
+- **BSc, Isfahan University of Technology**, Mathematics, Iran
+
+## CONFERENCE PUBLICATIONS & PRESENTATIONS
+-	**Laleh, A.** (2019, March). Data Science: Demystifying Technical Terms, Data for Her, Shell Malaysia
+-	**Laleh, A.** (2018, June). Data Science Industry, Presentation, British Council Malaysia, [Link](https://www.youtube.com/watch?v=Tuuv-X8c5ts)
+-	**Laleh, A.**, & Shahram, R. (2017, December). Analyzing Facebook Activities for Personality Recognition. In *Machine Learning and Applications (ICMLA), 2017 16th IEEE International Conference* on (pp. 960-964). IEEE. 
+
