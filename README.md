@@ -10,7 +10,9 @@ Hello! I'm Laleh, a passionate data scientist with a focus on machine learning a
 A unique and memorable moment in my professional journey was when my manager, Zach, presented me with a piece of art as a Valentine's gift. More than a thoughtful gesture, this artwork used the VALENTINE alphabet to encapsulate qualities he saw in me, qualities that I strive to embody in my professional and personal interactions:
 </div>
 
-| <img src="images/zach.png" width="200" alt="Zach's Artwork for Laleh"> |<div style="text-align: left;">- **Valued for counsel**: What should I do? <br>- **Attuned to our need**: We all need...<br>- **Loves the students**: I am so proud.<br>- **Enjoys a challenge**: That sounds difficult. Let me...<br>- **No sub-par work, ever**: This is not up to our standard.<br>- **Truth to stupid**: You are wrong. Here is why...<br>- **Infectious laughter**: HA HA HA HA HA<br>- **Noble Patience**: You will get there.<br>- **Earnest**: Let me share my feelings.</div>|
+<img src="images/zach.png" width="200" alt="Zach's Artwork for Laleh"> 
+<div style="text-align: left;">- **Valued for counsel**: What should I do? <br>- **Attuned to our need**: We all need...<br>- **Loves the students**: I am so proud.<br>- **Enjoys a challenge**: That sounds difficult. Let me...<br>- **No sub-par work, ever**: This is not up to our standard.<br>- **Truth to stupid**: You are wrong. Here is why...<br>- **Infectious laughter**: HA HA HA HA HA<br>- **Noble Patience**: You will get there.<br>- **Earnest**: Let me share my feelings.
+</div>
 
 
 <div style="text-align: justify;">
