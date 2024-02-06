@@ -10,7 +10,9 @@ Hello! I'm Laleh, a passionate data scientist with a focus on machine learning a
 A unique and memorable moment in my professional journey was when my manager, Zach, presented me with a piece of art as a Valentine's gift. More than a thoughtful gesture, this artwork used the VALENTINE alphabet to encapsulate qualities he saw in me, qualities that I strive to embody in my professional and personal interactions:
 </div>
 
-<img align="left" width="150" height="250" src="images/zach.png"> - **Valued for counsel**: What should I do?
+<img src="images/zach.png" style="width: 250px; height: auto;">
+
+ - **Valued for counsel**: What should I do?
 - **Attend to our need**: We all need ...
 - **Loves the students**:  I am so proud
 - **Enjoy a challenge**: That sounds difficult. Let me ...
