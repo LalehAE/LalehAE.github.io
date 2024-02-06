@@ -10,7 +10,7 @@ Hello! I'm Laleh, a passionate data scientist with a focus on machine learning a
 A unique and memorable moment in my professional journey was when my manager, Zach, presented me with a piece of art as a Valentine's gift. More than a thoughtful gesture, this artwork used the VALENTINE alphabet to encapsulate qualities he saw in me, qualities that I strive to embody in my professional and personal interactions:
 </div>
 
-<img align="left" width="150" height="250" src="images/zach_thumbnail.png"> - **Valued for counsel**: What should I do?
+<img align="left" width="150" height="250" src="images/zach.png"> - **Valued for counsel**: What should I do?
 - **Attend to our need**: We all need ...
 - **Loves the students**:  I am so proud
 - **Enjoy a challenge**: That sounds difficult. Let me ...
@@ -19,7 +19,6 @@ A unique and memorable moment in my professional journey was when my manager, Za
 - **Infectious laughter**: HA HA HA HA HA
 - **Noble Patience**: You will get there
 - **Earnest**: Let me share my feelings
-[Zach's Artwork for Laleh](images/zach.png) _"Valentine Alphabet for Laleh," a creative expression of the traits that I bring to my professional endeavors._
 
 <div style="text-align: justify;">
 Each of these attributes, represented through Zach's creative lens, highlights the blend of technical expertise, leadership, and interpersonal skills I bring to the field of data science. It's a reminder of the impact we can have through our work, the value of clear communication and empathy, and the importance of maintaining a positive, earnest approach in all our endeavors.
