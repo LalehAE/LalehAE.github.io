@@ -11,7 +11,6 @@ A unique and memorable moment in my professional journey was when my manager, Za
 </div>
 
 <img src="images/zach.png" style="width: 250px; height: auto;">
-
  - **Valued for counsel**: What should I do?
 - **Attend to our need**: We all need ...
 - **Loves the students**:  I am so proud
