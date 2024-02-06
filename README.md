@@ -61,21 +61,23 @@ Delving into user retention, this analysis informed strategic adjustments by eva
 <br>
 
 ##  Core Competencies
-<div style="text-align: justify;">
 
 - **Programming:** Python (NumPy, Pandas, Scikit-Learn, Keras, NLTK, SciPy), SQL, R, Spark 
-
-- **Machine Learning:** Linear Regression, Regularisation (Ridge, Lasso, Elastic), Logistic Regression, Naive Bayes, Decision Tree, Random Forest, Catboost, Xgboost, Lightgbm, K-Nearest Neighbour (KNN), Support Vector Machine (SVM), Clustering (K-Means, Hierarchical Clustering, DBSCAN), Dimension Reduction (PCA, T-SNE), NLP(BERT, LaBSE)
-
-- **Statistical Analysis:** Descriptive & Inferential Statistics, Regression Modeling & Evaluation, Time Series Forecasting
-
-- **Technologies:** Large Language Models (LLM), Microsoft Azure Cloud Platform, Databricks, Google Cloud Platform, Airflow, Kubeflow
-
+<div style="text-align: justify;">
+- **Machine Learning**: Linear Regression, Regularisation (Ridge, Lasso, Elastic), Logistic Regression, Naive Bayes, Decision Tree, Random Forest, Catboost, Xgboost, Lightgbm, K-Nearest Neighbour (KNN), Support Vector Machine (SVM), Clustering (K-Means, Hierarchical Clustering, DBSCAN), Dimension Reduction (PCA, T-SNE), NLP(BERT, LaBSE)
+</div>
+<div style="text-align: justify;">
+- **Statistical Analysis**: Descriptive & Inferential Statistics, Regression Modeling & Evaluation, Time Series Forecasting
+</div>
+<div style="text-align: justify;">
+- **Technologies**: Large Language Models (LLM), Microsoft Azure Cloud Platform, Databricks, Google Cloud Platform, Airflow, Kubeflow
+</div>
 - **BI Tools:** Tableau, Google Data Studio
-
+<div style="text-align: justify;">
 - **Industries:** Data Infrastructure and Analytics, E-Learning, Technology Information and Internet
-
-- **Soft Skills:** Problem-solving, Communication, Leadership, Critical Thinking, Attention to Detail, Cultural Competence
+</div>
+<div style="text-align: justify;">
+- **Soft Skills**: Problem-solving, Communication, Leadership, Critical Thinking, Attention to Detail, Cultural Competence
 </div>
 
 ## Education
@@ -90,26 +92,30 @@ Delving into user retention, this analysis informed strategic adjustments by eva
 ## CONFERENCE PUBLICATIONS & PRESENTATIONS
 <div style="text-align: justify;">
 -	**Laleh, A.** (2019, March). Data Science: Demystifying Technical Terms, Data for Her, Shell Malaysia
-
+</div>
+<div style="text-align: justify;">
 -	**Laleh, A.** (2018, June). Data Science Industry, Presentation, British Council Malaysia, [Watch My Talk](https://www.youtube.com/watch?v=Tuuv-X8c5ts)
-
+</div>
+<div style="text-align: justify;">
 -	**Laleh, A.**, & Shahram, R. (2017, December). Analyzing Facebook Activities for Personality Recognition. In *Machine Learning and Applications (ICMLA), 2017 16th IEEE International Conference* on (pp. 960-964). IEEE.
-
 </div>
 
 ## Professional Endorsements
 <div style="text-align: justify;">
 > "Laleh has been a valuable member of the CADS data science team, with deep understanding of statistics, time-series analysis and machine learning, eager to work and find innovative ways to solve any project/puzzle she would face. All the best in your next endeavors!"
-> [**- Stamatis Kourtis, Chief Data Officer at The Center of Applied Data Science**](https://www.linkedin.com/in/stamatis-kourtis-3624121/)
 </div>
+
+> [**- Stamatis Kourtis, Chief Data Officer at The Center of Applied Data Science**](https://www.linkedin.com/in/stamatis-kourtis-3624121/)
 
 <div style="text-align: justify;">
 > "I always enjoy working with Laleh. She's forthright, persistent, and capable of changing her mind based on data. The last trait is my favorite. You can always count on her to stat the facts and then her thoughts on the facts in context to the situation/problem. Oh, and she's amazing at the more technical elements of Machine Learning, Inferential Stats, Times Series forecasting, and on and on. Laleh is a great asset to my or any team."
-> [**- Zachary Johnson, Chief Product Officer  at The Center of Applied Data Science**](https://www.linkedin.com/in/zjamesjohnson/)
 </div>
+
+> [**- Zachary Johnson, Chief Product Officer  at The Center of Applied Data Science**](https://www.linkedin.com/in/zjamesjohnson/)
 
 <div style="text-align: justify;">
 > "I had the chance of teaching Management Of Technology and Innovation to L.A. (not "Los Angeles"! I mean Ms. Laleh Asadzadeh) and her nice classmates at IMI in Spetember 2012. I found her very talented, enthusiastic, involved and serious at studies. I really enjoyed speaking at their class, especially with a number of outstanding students like Ms. Asadzadeh."
-> [**- Fariborz Davarpanah, Lecturer at Industrial Management Institute**](https://www.linkedin.com/in/fariborz-davarpanah-4a9ba536/) 
 </div>
+
+> [**- Fariborz Davarpanah, Lecturer at Industrial Management Institute**](https://www.linkedin.com/in/fariborz-davarpanah-4a9ba536/) 
 
