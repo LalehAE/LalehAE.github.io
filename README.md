@@ -11,8 +11,15 @@ A unique and memorable moment in my professional journey was when my manager, Za
 </div>
 
 <img src="images/zach.png" width="200" alt="Zach's Artwork for Laleh"> 
-<div style="text-align: left;">- **Valued for counsel**: What should I do? <br>- **Attuned to our need**: We all need...<br>- **Loves the students**: I am so proud.<br>- **Enjoys a challenge**: That sounds difficult. Let me...<br>- **No sub-par work, ever**: This is not up to our standard.<br>- **Truth to stupid**: You are wrong. Here is why...<br>- **Infectious laughter**: HA HA HA HA HA<br>- **Noble Patience**: You will get there.<br>- **Earnest**: Let me share my feelings.
-</div>
+- **Valued for counsel**: What should I do? 
+- **Attuned to our need**: We all need...
+- **Loves the students**: I am so proud.
+- **Enjoys a challenge**: That sounds difficult. Let me...
+- **No sub-par work, ever**: This is not up to our standard.
+- **Truth to stupid**: You are wrong. Here is why...
+- **Infectious laughter**: HA HA HA HA HA
+- **Noble Patience**: You will get there.
+- **Earnest**: Let me share my feelings.
 
 
 <div style="text-align: justify;">
