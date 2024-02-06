@@ -8,27 +8,42 @@
     <style>
         body {
             font-family: Arial, sans-serif;
+            background-color: #F4F4F4; /* Light Gray background */
+            color: #333; /* Default text color */
         }
         .container {
             width: 80%;
             margin: 0 auto;
             padding: 20px;
+            background-color: #FFFFFF; /* White background for content */
+            border-radius: 5px; /* Optional: Adds rounded corners to your content container */
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Optional: Adds a subtle shadow around the container */
         }
         h1 {
-            color: #333;
+            color: #003366; /* Navy Blue for main headings */
         }
         h2 {
-            color: #333;
+            color: #00AEEF; /* Sky Blue for subheadings */
             font-size: 1.5em;
         }
         p {
-            color: #666;
+            color: #666; /* Darker text color for paragraphs for readability */
             line-height: 1.6;
+            text-align: justify; /* Justifies the paragraph text */
+        }
+        a, .highlight {
+            color: #FFA500; /* Vibrant Orange for links and highlighted text */
+        }
+        .highlight-purple {
+            background-color: #7D5BA6; /* Soft Purple background for special highlights */
+            color: #FFFFFF; /* White text on purple background */
+            padding: 2px 4px; /* Adds some padding around the text */
+            border-radius: 3px; /* Rounds the corners of the highlight */
         }
     </style>
 </head>
 <body>
-    <div class="container">
+    <div class="container" style="text-align: justify;">
         <h1>Social Media Recommender Engine</h1>
         <h2>Objective</h2>
         <p>The Social Media Recommender Engine project has been meticulously architected to refine the social connectivity experience. This Proof of Concept (POC) is dedicated to presenting users with their best matches, considering a multitude of factors that include demographic data, professional backgrounds, and personal aspirations. The system is designed to facilitate meaningful connections by aligning users with similar interests and life goals.</p>
