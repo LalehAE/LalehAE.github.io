@@ -3,9 +3,12 @@
 # Welcome to Laleh's Data Science Portfolio
 
 ## About Me
+<div style="text-align: justify;">
+
 Hello! I'm Laleh, a passionate data scientist with a focus on machine learning and AI. My journey in data science is underscored by a foundation in mathematics and executive management, where leveraging data for decision-making and insight discovery is at the core of what I do.
 
 A unique and memorable moment in my professional journey was when my manager, Zach, presented me with a piece of art as a Valentine's gift. More than a thoughtful gesture, this artwork used the VALENTINE alphabet to encapsulate qualities he saw in me, qualities that I strive to embody in my professional and personal interactions:
+</div>
 
 - **Valued for counsel**: What should I do?
 - **Attend to our need**: We all need ...
