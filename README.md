@@ -11,7 +11,7 @@ A unique and memorable moment in my professional journey was when my manager, Za
 </div>
 
 | <img src="images/zach.png" width="200" alt="Zach's Artwork for Laleh"> |<div style="text-align: left;">- **Valued for counsel**: What should I do? <br>- **Attuned to our need**: We all need...<br>- **Loves the students**: I am so proud.<br>- **Enjoys a challenge**: That sounds difficult. Let me...<br>- **No sub-par work, ever**: This is not up to our standard.<br>- **Truth to stupid**: You are wrong. Here is why...<br>- **Infectious laughter**: HA HA HA HA HA<br>- **Noble Patience**: You will get there.<br>- **Earnest**: Let me share my feelings.</div>|
-| --- | --- |
+
 
 <div style="text-align: justify;">
 Each of these attributes, represented through Zach's creative lens, highlights the blend of technical expertise, leadership, and interpersonal skills I bring to the field of data science. It's a reminder of the impact we can have through our work, the value of clear communication and empathy, and the importance of maintaining a positive, earnest approach in all our endeavors.
