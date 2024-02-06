@@ -39,11 +39,11 @@ Here is a curated collection of my projects, each meticulously detailed with inf
 Empowering businesses to harness their data effortlessly, this project utilizes AI agents created with OpenAI and LangChain to navigate complex databases, like SAP, without requiring deep database knowledge. It features an innovative AI-driven system that interprets user queries, identifies relevant data, and autonomously generates Python scripts for analysis. The system further advises on visualization and business insights, streamlining decision-making and fostering a culture of data-driven intelligence.
 </div>
 <br>
-
 <img align="left" width="150" height="150" src="images/Aircraft.png"> **[Aircraft Turnaround](https://LalehAE.github.io/pages/Aircraft.html)**
 <div style="text-align: justify;">
 Innovating airport operations, this application empowers airline managers with real-time monitoring of aircraft turnaround. It uses advanced computer vision and a Yolo model to analyze CCTV footage, annotate events, and present live dashboards via Azure, reducing delays and enhancing efficiency. 
 </div>
+<br>
 <br>
 
 <img align="left" width="150" height="150" src="images/Social.png"> **[Social Media Recommender Engine](https://LalehAE.github.io/pages/Social.html)**
@@ -59,9 +59,9 @@ A cutting-edge POC that transforms social connectivity by leveraging deep learni
 Delving into user retention, this analysis informed strategic adjustments by evaluating churn rates across various memberships. Collaborative efforts in defining churn and securing necessary data culminated in live churn data tables and dashboards, influencing the company's decision to optimize its membership focus. 
 </div>
 <br>
+<br>
 
-<div style="text-align: justify;">
-
+## Core Competencies
 - **Programming:** Python (NumPy, Pandas, Scikit-Learn, Keras, NLTK, SciPy), SQL, R, Spark
 - **Machine Learning:** Linear Regression, Regularisation (Ridge, Lasso, Elastic), Logistic Regression, Naive Bayes, Decision Tree, Random Forest, Catboost, Xgboost, Lightgbm, K-Nearest Neighbour (KNN), Support Vector Machine (SVM), Clustering (K-Means, Hierarchical Clustering, DBSCAN), Dimension Reduction (PCA, T-SNE), NLP(BERT, LaBSE)
 - **Statistical Analysis:** Descriptive & Inferential Statistics, Regression Modeling & Evaluation, Time Series Forecasting
@@ -69,8 +69,6 @@ Delving into user retention, this analysis informed strategic adjustments by eva
 - **BI Tools:** Tableau, Google Data Studio
 - **Industries:** Data Infrastructure and Analytics, E-Learning, Technology Information and Internet
 - **Soft Skills:** Problem-solving, Communication, Leadership, Critical Thinking, Attention to Detail, Cultural Competence
-
-</div>
 
 ## Education
 - **MSc, Southern Illinois University**, Computer Science, United States
@@ -82,19 +80,13 @@ Delving into user retention, this analysis informed strategic adjustments by eva
 - **BSc, Isfahan University of Technology**, Mathematics, Iran
 
 ## CONFERENCE PUBLICATIONS & PRESENTATIONS
-<div style="text-align: justify;">
-
 -	**Laleh, A.** (2019, March). Data Science: Demystifying Technical Terms, Data for Her, Shell Malaysia
 
 -	**Laleh, A.** (2018, June). Data Science Industry, Presentation, British Council Malaysia, [Watch My Talk](https://www.youtube.com/watch?v=Tuuv-X8c5ts)
 
 -	**Laleh, A.**, & Shahram, R. (2017, December). Analyzing Facebook Activities for Personality Recognition. In *Machine Learning and Applications (ICMLA), 2017 16th IEEE International Conference* on (pp. 960-964). IEEE.
 
-</div>
-
 ## Professional Endorsements
-<div style="text-align: justify;">
-
 > "Laleh has been a valuable member of the CADS data science team, with deep understanding of statistics, time-series analysis and machine learning, eager to work and find innovative ways to solve any project/puzzle she would face. All the best in your next endeavors!"
 > [**- Stamatis Kourtis, Chief Data Officer at The Center of Applied Data Science**](https://www.linkedin.com/in/stamatis-kourtis-3624121/)
 
@@ -103,5 +95,3 @@ Delving into user retention, this analysis informed strategic adjustments by eva
 
 > "I had the chance of teaching Management Of Technology and Innovation to L.A. (not "Los Angeles"! I mean Ms. Laleh Asadzadeh) and her nice classmates at IMI in Spetember 2012. I found her very talented, enthusiastic, involved and serious at studies. I really enjoyed speaking at their class, especially with a number of outstanding students like Ms. Asadzadeh."
 > [**- Fariborz Davarpanah, Lecturer at Industrial Management Institute**](https://www.linkedin.com/in/fariborz-davarpanah-4a9ba536/) 
-
-</div>
