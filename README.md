@@ -9,9 +9,8 @@ Hello! I'm Laleh, a passionate data scientist with a focus on machine learning a
 </div>
 <br>
 
----
-
 <div style="text-align: justify;">
+    <hr style="width: 50%; border: 1px solid #ccc;">
 
 A unique and memorable moment in my professional journey was when my manager, Zach, presented me with a piece of art as a Valentine's gift. More than a thoughtful gesture, this artwork used the VALENTINE alphabet to encapsulate qualities he saw in me, qualities that I strive to embody in my professional and personal interactions:
 </div>
@@ -23,11 +22,11 @@ A unique and memorable moment in my professional journey was when my manager, Za
 <div style="text-align: justify;">
 
 Each of these attributes, represented through Zach's creative lens, highlights the blend of technical expertise, leadership, and interpersonal skills I bring to the field of data science. It's a reminder of the impact we can have through our work, the value of clear communication and empathy, and the importance of maintaining a positive, earnest approach in all our endeavors.
-
----
+    <hr style="width: 50%; border: 1px solid #ccc;">
 
 </div>
-<br>
+
+---
 
 - **Email**: [la.asadzadeh@gmail.com](mailto:la.asadzadeh@gmail.com)
 - **LinkedIn**: [linkedin.com/lalehas](https://www.linkedin.com/in/lalehas/)
