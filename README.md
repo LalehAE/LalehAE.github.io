@@ -9,6 +9,7 @@ Hello! I'm Laleh, a passionate data scientist with a focus on machine learning a
 
 A unique and memorable moment in my professional journey was when my manager, Zach, presented me with a piece of art as a Valentine's gift. More than a thoughtful gesture, this artwork used the VALENTINE alphabet to encapsulate qualities he saw in me, qualities that I strive to embody in my professional and personal interactions:
 </div>
+<br>
 
 <img align="left" width="170" src="images/zach.png"> - **Valued for counsel**: What should I do?<br>- **Attuned to our need**: We all need...<br>- **Loves the students**: I am so proud.<br>- **Enjoys a challenge**: That sounds difficult. Let me...<br>- **No sub-par work, ever**: This is not up to our standard.<br>- **Truth to stupid**: You are wrong. Here is why...<br>- **Infectious laughter**: HA HA HA HA HA<br>- **Noble Patience**: You will get there.<br>- **Earnest**: Let me share my feelings.
 
@@ -31,12 +32,12 @@ Here is a curated collection of my projects, each meticulously detailed with inf
 <div style="text-align: justify;">
 Empowering businesses to harness their data effortlessly, this project utilizes AI agents created with OpenAI and LangChain to navigate complex databases, like SAP, without requiring deep database knowledge. It features an innovative AI-driven system that interprets user queries, identifies relevant data, and autonomously generates Python scripts for analysis. The system further advises on visualization and business insights, streamlining decision-making and fostering a culture of data-driven intelligence.
 </div>
+<br>
 
 <img align="left" width="150" height="150" src="images/Aircraft.png"> **[Aircraft Turnaround](https://LalehAE.github.io/pages/Aircraft.html)**
 <div style="text-align: justify;">
 Innovating airport operations, this application empowers airline managers with real-time monitoring of aircraft turnaround. It uses advanced computer vision and a Yolo model to analyze CCTV footage, annotate events, and present live dashboards via Azure, reducing delays and enhancing efficiency. 
 </div>
-<br>
 <br>
 <br>
 
@@ -48,7 +49,6 @@ A cutting-edge POC that transforms social connectivity by leveraging deep learni
 </div>
 <br>
 <br>
-
 
  <img align="left" width="150" height="150" src="images/Cohort.png"> **[Cohort Churn Analysis](https://LalehAE.github.io/pages/Cohort.html)**
 <div style="text-align: justify;">
