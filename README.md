@@ -15,20 +15,24 @@ A unique and memorable moment in my professional journey was when my manager, Za
 <div style="text-align: justify;">
 Each of these attributes, represented through Zach's creative lens, highlights the blend of technical expertise, leadership, and interpersonal skills I bring to the field of data science. It's a reminder of the impact we can have through our work, the value of clear communication and empathy, and the importance of maintaining a positive, earnest approach in all our endeavors.
 </div>
+<br>
 
 - **Email**: [la.asadzadeh@gmail.com](mailto:la.asadzadeh@gmail.com)
 - **LinkedIn**: [linkedin.com/lalehas](https://www.linkedin.com/in/lalehas/)
+- **Github**: [github.com/LalehAE](https://github.com/LalehAE)
 
 ## Projects
 <div style="text-align: justify;">
 Here is a curated collection of my projects, each meticulously detailed with information on the objective, methodology, and implementation. Within this collection, you'll discover comprehensive insights into my projects, with each one thoroughly explained in terms of its objective, methodology, and implementation aspects. Notably, the GenAI project is accompanied by a sample code repository, offering a tangible glimpse into the practical application of its underlying solution.
 </div>
 <br>
+
 <img align="left" width="150" height="150" src="images/GenAI.png"> **[Autonomous ETL & Data Analytics](https://LalehAE.github.io/pages/GenAI.html)**
 <div style="text-align: justify;">
 Empowering businesses to harness their data effortlessly, this project utilizes AI agents created with OpenAI and LangChain to navigate complex databases, like SAP, without requiring deep database knowledge. It features an innovative AI-driven system that interprets user queries, identifies relevant data, and autonomously generates Python scripts for analysis. The system further advises on visualization and business insights, streamlining decision-making and fostering a culture of data-driven intelligence.
 </div>
 <br>
+
 <img align="left" width="150" height="150" src="images/Aircraft.png"> **[Aircraft Turnaround](https://LalehAE.github.io/pages/Aircraft.html)**
 <div style="text-align: justify;">
 Innovating airport operations, this application empowers airline managers with real-time monitoring of aircraft turnaround. It uses advanced computer vision and a Yolo model to analyze CCTV footage, annotate events, and present live dashboards via Azure, reducing delays and enhancing efficiency. 
