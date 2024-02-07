@@ -11,14 +11,16 @@ Hello! I'm Laleh, a passionate data scientist with a focus on machine learning a
 
 <div style="text-align: justify;">
 
-A unique and memorable moment in my professional journey was when my manager, Zach, presented me with a piece of art as a Valentine's gift. More than a thoughtful gesture, this artwork used the VALENTINE alphabet to encapsulate qualities he saw in me, qualities that I strive to embody in my professional and personal interactions:
+> A unique and memorable moment in my professional journey was when my manager, Zach, presented me with a piece of art as a Valentine's gift. More than a thoughtful gesture, this artwork used the VALENTINE alphabet to encapsulate qualities he saw in me, qualities that I strive to embody in my professional and personal interactions:
 </div>
 <br>
 
 [<img align="left" width="170" src="images/zach.png">](https://www.linkedin.com/posts/lalehas_i-am-truly-thrilled-by-such-a-creative-valuable-activity-6767003037186818048-PEA9) - **Valued for counsel**: What should I do?<br>- **Attuned to our need**: We all need...<br>- **Loves the students**: I am so proud.<br>- **Enjoys a challenge**: That sounds difficult. Let me...<br>- **No sub-par work, ever**: This is not up to our standard.<br>- **Truth to stupid**: You are wrong. Here is why...<br>- **Infectious laughter**: HA HA HA HA HA<br>- **Noble Patience**: You will get there.<br>- **Earnest**: Let me share my feelings.
 
+<br>
 <div style="text-align: justify;">
-Each of these attributes, represented through Zach's creative lens, highlights the blend of technical expertise, leadership, and interpersonal skills I bring to the field of data science. It's a reminder of the impact we can have through our work, the value of clear communication and empathy, and the importance of maintaining a positive, earnest approach in all our endeavors.
+
+> Each of these attributes, represented through Zach's creative lens, highlights the blend of technical expertise, leadership, and interpersonal skills I bring to the field of data science. It's a reminder of the impact we can have through our work, the value of clear communication and empathy, and the importance of maintaining a positive, earnest approach in all our endeavors.
 </div>
 <br>
 
@@ -88,6 +90,8 @@ Delving into user retention, this analysis informed strategic adjustments by eva
 -	**Laleh, A.**, & Shahram, R. (2017, December). Analyzing Facebook Activities for Personality Recognition. In *Machine Learning and Applications (ICMLA), 2017 16th IEEE International Conference* on (pp. 960-964). IEEE.
 
 ## Professional Endorsements
+<div style="text-align: justify;">
+
 > "Laleh has been a valuable member of the CADS data science team, with deep understanding of statistics, time-series analysis and machine learning, eager to work and find innovative ways to solve any project/puzzle she would face. All the best in your next endeavors!"
 > [**- Stamatis Kourtis, Chief Data Officer at The Center of Applied Data Science**](https://www.linkedin.com/in/stamatis-kourtis-3624121/)
 
@@ -96,3 +100,4 @@ Delving into user retention, this analysis informed strategic adjustments by eva
 
 > "I had the chance of teaching Management Of Technology and Innovation to L.A. (not "Los Angeles"! I mean Ms. Laleh Asadzadeh) and her nice classmates at IMI in Spetember 2012. I found her very talented, enthusiastic, involved and serious at studies. I really enjoyed speaking at their class, especially with a number of outstanding students like Ms. Asadzadeh."
 > [**- Fariborz Davarpanah, Lecturer at Industrial Management Institute**](https://www.linkedin.com/in/fariborz-davarpanah-4a9ba536/) 
+</div>
