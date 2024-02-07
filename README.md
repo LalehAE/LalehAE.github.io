@@ -23,10 +23,7 @@ A unique and memorable moment in my professional journey was when my manager, Za
 
 Each of these attributes, represented through Zach's creative lens, highlights the blend of technical expertise, leadership, and interpersonal skills I bring to the field of data science. It's a reminder of the impact we can have through our work, the value of clear communication and empathy, and the importance of maintaining a positive, earnest approach in all our endeavors.
     <hr style="width: 50%; border: 1px solid #ccc;">
-
 </div>
-
----
 
 - **Email**: [la.asadzadeh@gmail.com](mailto:la.asadzadeh@gmail.com)
 - **LinkedIn**: [linkedin.com/lalehas](https://www.linkedin.com/in/lalehas/)
