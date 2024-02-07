@@ -31,7 +31,6 @@ Here is a curated collection of my projects, each meticulously detailed with inf
 <div style="text-align: justify;">
 Empowering businesses to harness their data effortlessly, this project utilizes AI agents created with OpenAI and LangChain to navigate complex databases, like SAP, without requiring deep database knowledge. It features an innovative AI-driven system that interprets user queries, identifies relevant data, and autonomously generates Python scripts for analysis. The system further advises on visualization and business insights, streamlining decision-making and fostering a culture of data-driven intelligence.
 </div>
-<br>
 
 <img align="left" width="150" height="150" src="images/Aircraft.png"> **[Aircraft Turnaround](https://LalehAE.github.io/pages/Aircraft.html)**
 <div style="text-align: justify;">
@@ -39,6 +38,8 @@ Innovating airport operations, this application empowers airline managers with r
 </div>
 <br>
 <br>
+<br>
+
 
 <img align="left" width="150" height="150" src="images/Social.png"> **[Social Media Recommender Engine](https://LalehAE.github.io/pages/Social.html)**
 <div style="text-align: justify;">
@@ -46,6 +47,8 @@ Innovating airport operations, this application empowers airline managers with r
 A cutting-edge POC that transforms social connectivity by leveraging deep learning to analyze user data and match profiles with shared interests and goals. The innovative use of LaBSE for vector embeddings and cosine similarity scores significantly outperforms traditional clustering, readying the system for expansion to a broader user base. 
 </div>
 <br>
+<br>
+
 
  <img align="left" width="150" height="150" src="images/Cohort.png"> **[Cohort Churn Analysis](https://LalehAE.github.io/pages/Cohort.html)**
 <div style="text-align: justify;">
@@ -73,7 +76,7 @@ Delving into user retention, this analysis informed strategic adjustments by eva
 
 - **BSc, Isfahan University of Technology**, Mathematics, Iran
 
-## CONFERENCE PUBLICATIONS & PRESENTATIONS
+## CONFConference Publications & Presentations
 -	**Laleh, A.** (2019, March). Data Science: Demystifying Technical Terms, Data for Her, Shell Malaysia
 
 -	**Laleh, A.** (2018, June). Data Science Industry, Presentation, British Council Malaysia, [Watch My Talk](https://www.youtube.com/watch?v=Tuuv-X8c5ts)
