@@ -48,18 +48,16 @@ Innovating airport operations, this application empowers airline managers with r
 <br>
 <br>
 
-<img align="left" width="150" height="150" src="images/Items.png"> **[Aircraft Turnaround](https://LalehAE.github.io/pages/Items.html)**
+<img align="left" width="150" height="150" src="images/Items.png"> **[Procurement Item Classification](https://LalehAE.github.io/pages/Items.html)**
 <div style="text-align: justify;">
 I developed a Catboost model to classify procurement invoices into more than 30 distinct categories, achieving a macro-average accuracy of 86%. This classification facilitates direct spend analysis, uncovering hidden costs and ensuring spend accuracy, which is vital for creating cost-saving procurement strategies. Additionally, I optimized the existing post-processing procedure, cutting down its runtime by 30%, thereby improving the overall efficiency of the procurement process.
 </div>
-<br>
 <br>
 
 <img align="left" width="150" height="150" src="images/Content.png"> **[Content Recommender Engine](https://LalehAE.github.io/pages/Content.html)**
 <div style="text-align: justify;">
 Developed a multilingual content recommender engine using TensorFlow Recommenders (TFRS), fine-tuned with Kubeflow and managed by an Apache Airflow pipeline on GCP. Enhanced the system to support 105 languages, improving the scope and inclusivity of user recommendations. Optimized the recommendation filtering process, ensuring users only receive current and relevant content. Future developments include A/B testing to evaluate user engagement and further refine the recommendation algorithm.
 </div>
-<br>
 <br>
 
 <img align="left" width="150" height="150" src="images/Social.png"> **[Social Media Recommender Engine](https://LalehAE.github.io/pages/Social.html)**
