@@ -82,7 +82,7 @@ Delving into user retention, this analysis informed strategic adjustments by eva
 - **Statistical Analysis:** Descriptive & Inferential Statistics, Regression Modeling & Evaluation, Time Series Forecasting
 - **Technologies:** Large Language Models (LLM), Microsoft Azure Cloud Platform, Databricks, Google Cloud Platform, Airflow, Kubeflow
 - **BI Tools:** Tableau, Google Data Studio
-- **Industries:** Data Infrastructure and Analytics, E-Learning, Technology Information and Internet
+- **Industries:** Data Infrastructure and Analytics, E-Learning, Technology Information and Internet, Manufacturing
 - **Soft Skills:** Problem-solving, Communication, Leadership, Critical Thinking, Attention to Detail, Cultural Competence
 
 ## Education
