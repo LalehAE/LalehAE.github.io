@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social Media Recommender Engine</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #F4F4F4; /* Light Gray background */
+            color: #333; /* Default text color */
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #FFFFFF; /* White background for content */
+            border-radius: 5px; /* Optional: Adds rounded corners to your content container */
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Optional: Adds a subtle shadow around the container */
+        }
+        h1 {
+            text-align: center;
+            color:  #00AEEF; /* Navy Blue for main headings */
+        }
+        h2 {
+            color: #FFA500; /* Sky Blue for subheadings */
+            font-size: 1.5em;
+        }
+        p {
+            color: #666; /* Darker text color for paragraphs for readability */
+            line-height: 1.6;
+            text-align: justify; /* Justifies the paragraph text */
+        }
+        a, .highlight {
+            color: #7D5BA6; /* Vibrant Orange for links and highlighted text */
+        }
+        .highlight-purple {
+            background-color: #7D5BA6; /* Soft Purple background for special highlights */
+            color: #FFFFFF; /* White text on purple background */
+            padding: 2px 4px; /* Adds some padding around the text */
+            border-radius: 3px; /* Rounds the corners of the highlight */
+        }
+    </style>
+</head>
+<body>
+    <div class="container" style="text-align: justify;">
+        <h1>Procurement Item Classification</h1>
+        <img src="../images/Items.png" alt="Project Image" style="display: block; margin: 20px auto; width: 300px; height: 300px;"> 
+        <h2>Objective</h2>
+        <p>The project aimed to implement a classification system for procurement invoices to support spend analysis. By accurately categorizing invoices into specific procurement categories, the system aids in uncovering hidden costs, ensuring spend accuracy, and establishing effective category strategies.</p>
+        <h2>Approach & Execution</h2>
+        <p>AThe classification model, developed using Python and Databricks, utilized SAP invoice data to sort procurement items across more than 30 categories. Data pre-processing was key, involving cleaning, balancing, and feature engineering to enhance model accuracy. The Catboost algorithm was selected for its effectiveness, achieving a macro-average accuracy of 86%. Additionally, I refined the model's post-processing capabilities to reduce runtime by 30%, thereby increasing the efficiency of the classification system.</p>
+        <h2>Challenges</h2>
+        <p>The task presented complexities due to varying stakeholder perspectives on item categorization and the different aggregation levels. Despite these hurdles, the classification process was crucial for the strategic management of procurement expenses.</p>
+        <h2>Outcomes & Impact</h2>
+        <p>The model substantially contributed to spend analysis by providing a detailed and accurate categorization of procurement expenses. This has enabled the procurement team to strategize effectively, saving costs and formulating competitive category strategies.</p>
+        <h2>Future Direction</h2>
+        <p>Efforts are now focused on enhancing the model's handling of descriptive text data and engaging subject matter experts to improve the training data quality. The goal is to define consistent product or service families and critical attributes for each classification level, facilitating the creation of comprehensive procurement strategies despite differing stakeholder perspectives and categorization challenges.</p>
+    </div>
+</body>
+</html>
