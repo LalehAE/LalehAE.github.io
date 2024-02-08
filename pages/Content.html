@@ -1,0 +1,68 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social Media Recommender Engine</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #F4F4F4; /* Light Gray background */
+            color: #333; /* Default text color */
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #FFFFFF; /* White background for content */
+            border-radius: 5px; /* Optional: Adds rounded corners to your content container */
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Optional: Adds a subtle shadow around the container */
+        }
+        h1 {
+            text-align: center;
+            color:  #00AEEF; /* Navy Blue for main headings */
+        }
+        h2 {
+            color: #FFA500; /* Sky Blue for subheadings */
+            font-size: 1.5em;
+        }
+        p {
+            color: #666; /* Darker text color for paragraphs for readability */
+            line-height: 1.6;
+            text-align: justify; /* Justifies the paragraph text */
+        }
+        a, .highlight {
+            color: #7D5BA6; /* Vibrant Orange for links and highlighted text */
+        }
+        .highlight-purple {
+            background-color: #7D5BA6; /* Soft Purple background for special highlights */
+            color: #FFFFFF; /* White text on purple background */
+            padding: 2px 4px; /* Adds some padding around the text */
+            border-radius: 3px; /* Rounds the corners of the highlight */
+        }
+    </style>
+</head>
+<body>
+    <div class="container" style="text-align: justify;">
+        <h1>Content Recommender Engines</h1>
+        <img src="../images/Content.png" alt="Project Image" style="display: block; margin: 20px auto; width: 300px; height: 300px;"> 
+        <h2>Objective</h2>
+        <p>To develop and deploy an advanced content recommender engine that enhances the personalization of daily content delivery for users by leveraging their historical activities, bio, and demographic features.</p>
+        <h2>Methodology</h2>
+        <p>Employed TensorFlow Recommenders (TFRS) for the construction of the recommendation model. The system was fine-tuned using Kubeflow and orchestrated via an Apache Airflow pipeline on Google Cloud Platform (GCP), ensuring a scalable and robust deployment.</p>
+        <h2>Technical Stack</h2>
+        <p>TensorFlow Recommenders (TFRS), Kubeflow, Apache Airflow, Google Cloud Platform (GCP).</p>
+        <h2>Execution</h2>
+        <p>Analyzed and understood the existing system's codebase, identifying key areas for enhancement. Successfully expanded the model's capacity to process bios in 105 languages, up from its previous single-language (English) capability. Additionally, I optimized the post-processing step to exclude content that was phased out by the company, ensuring that recommendations remain relevant and up-to-date.</p>
+        <h2>Challenges</h2>
+        <p>The primary challenge was to extend the model's language processing capabilities to include a diverse set of languages while maintaining the accuracy and relevance of content recommendations. Another challenge was refining the post-processing algorithm to dynamically adjust to the changing content offerings of the company.<p>
+        <h2>Impact</h2>
+        <p>The enhancements led to a more inclusive and refined user experience, potentially increasing user engagement and satisfaction with the personalized content provided.</p>
+        <h2>Future Direction</h2>
+        <p>Plans are in place to conduct A/B testing to assess the impact of different versions of the recommender system on user engagement and further refine the recommendation algorithm based on the insights gained.</p>
+    </div>
+</body>
+</html>
+
