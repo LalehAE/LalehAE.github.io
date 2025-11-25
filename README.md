@@ -5,20 +5,17 @@
 ## About Me
 <div style="text-align: justify;">
 
-Hello! I'm Laleh, a passionate data scientist with a focus on machine learning and AI. My journey in data science is underscored by a foundation in mathematics and executive management, where leveraging data for decision-making and insight discovery is at the core of what I do.
+I care about responsible, transparent AI: systems that show where their answers come from, respect data boundaries, and keep specialists in control of decisions.
+
+I’m Laleh, a Lead Data Scientist who designs AI solutions around complex data where accuracy and trust matter. I have led data and AI work across e-learning, procurement, manufacturing, and, most recently, geotechnical engineering in Canada.
+
+In my most recent role as Lead Data Scientist at TREK Geotechnical in Winnipeg, I led the company’s AI and data modernization roadmap. Instead of putting a chatbot on top of messy legacy files, I designed and implemented a new data foundation that used AI, including language models, to clean and consolidate thousands of historical geotechnical files into a structured Postgres/PostGIS database, and exposed them through a Google Earth view with location-accuracy flags and a feedback loop so engineers and managers could review and correct critical records. On top of that foundation I designed a secure conversational layer over the enterprise database so geotechnical engineers and researchers could ask multi-step questions in natural language, see results on the map, download KMZ and CSV outputs, and understand which data, filters, and reasoning were used in each answer, while raw data stayed safely inside company systems.
+
+My best work happens between domain experts, product, and engineering: listening to how people really work, clarifying the problem, shaping the data and AI approach, and guiding it into something teams trust and actually use.
 </div>
 <br>
 
-<div style="text-align: justify;">
-    <hr style="width: 50%; border: 1px solid #ccc;">
 
-A unique and memorable moment in my professional journey was when my manager, Zach, presented me with a piece of art as a Valentine's gift. More than a thoughtful gesture, this artwork used the VALENTINE alphabet to encapsulate qualities he saw in me, qualities that I strive to embody in my professional and personal interactions:
-</div>
-<br>
-
-[<img align="left" width="170" src="images/zach.png">](https://www.linkedin.com/posts/lalehas_i-am-truly-thrilled-by-such-a-creative-valuable-activity-6767003037186818048-PEA9) - **Valued for counsel**: What should I do?<br>- **Attuned to our need**: We all need...<br>- **Loves the students**: I am so proud.<br>- **Enjoys a challenge**: That sounds difficult. Let me...<br>- **No sub-par work, ever**: This is not up to our standard.<br>- **Truth to stupid**: You are wrong. Here is why...<br>- **Infectious laughter**: HA HA HA HA HA<br>- **Noble Patience**: You will get there.<br>- **Earnest**: Let me share my feelings.
-
-<br>
 <div style="text-align: justify;">
 
 Each of these attributes, represented through Zach's creative lens, highlights the blend of technical expertise, leadership, and interpersonal skills I bring to the field of data science. It's a reminder of the impact we can have through our work, the value of clear communication and empathy, and the importance of maintaining a positive, earnest approach in all our endeavors.
