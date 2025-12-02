@@ -21,7 +21,6 @@ My best work happens between domain experts, product and engineering: listening 
 
 ## Projects
 
-
 <div style="text-align: justify;">
 Below is a curated selection of projects that show how I approach real-world AI and data problems: from LLM based assistants and agents, to recommender systems, computer vision, and analytics for decision making.
 </div>
@@ -30,7 +29,7 @@ Below is a curated selection of projects that show how I approach real-world AI 
 
 <img align="left" width="150" height="150" src="images/TREK_AI_Assistant.png"> **Geotechnical AI Assistant over Enterprise Data and Reports**
 <div style="text-align: justify;">
-At TREK Geotechnical I designed and built an AI assistant for geotechnical engineers that can answer complex questions over both structured data and technical reports, while keeping sensitive data inside company systems. The assistant uses an agentic LLM workflow to translate multi-step, domain-specific questions into SQL without exposing raw data, and returns results on a map with downloadable KMZ (Google Earth) and CSV outputs. It also explains which data, filters and reasoning were used for each answer, and can summarise PDF-based technical reports through a chat-style interface so complex documentation becomes easier to use for both technical and non-technical stakeholders.
+At TREK Geotechnical I designed and built an AI assistant for geotechnical engineers that can answer complex questions over both structured data and technical reports, while keeping sensitive data inside company systems. The assistant uses an agentic LLM workflow to translate multi-step, domain-specific questions into SQL and geospatial queries, and returns results on a map with downloadable KMZ (Google Earth) and CSV outputs. It also explains which data, filters and reasoning were used for each answer, and can summarise PDF-based technical reports through a chat-style interface so complex documentation becomes easier to use for both technical and non-technical stakeholders.
 </div>
 <br>
 <br>
@@ -44,46 +43,41 @@ I led the redesign of TREK’s geotechnical data foundation by consolidating tho
 
 <img align="left" width="150" height="150" src="images/GenAI.png"> **[Autonomous ETL & Data Analytics](https://LalehAE.github.io/pages/GenAI.html)**
 <div style="text-align: justify;">
-Empowering business users to work with complex databases without deep technical knowledge. This project uses AI agents built with OpenAI and LangChain to interpret natural language questions, identify relevant data (for example from SAP), and generate Python scripts for analysis. It also suggests visualisations and business insights, helping teams move more easily from raw data to decisions.
+I built an AI agent framework to help business users work with complex databases without deep technical knowledge. The system uses OpenAI and LangChain to interpret natural language questions, identify relevant data (for example from SAP), and generate Python scripts for analysis. It also suggests visualisations and business insights, helping teams move more easily from raw data to practical decisions.
 </div>
 <br>
 <br>
 
 <img align="left" width="150" height="150" src="images/Aircraft.png"> **[Aircraft Turnaround](https://LalehAE.github.io/pages/Aircraft.html)**
 <div style="text-align: justify;">
-This application supports airline and airport operations by monitoring aircraft turnaround in real time. It uses computer vision with a YOLO model to analyse CCTV footage, detect key events, and feed live dashboards on Azure, helping reduce delays and improve efficiency on the apron. 
+I developed a computer vision solution to monitor aircraft turnaround in real time and support airline and airport operations. Using a YOLO model, the system analyses CCTV footage, detects key events on the apron and streams structured outputs to live dashboards on Azure. This allows operations teams to spot delays earlier, optimise resources and improve turnaround efficiency.
 </div>
 <br>
 <br>
 
 <img align="left" width="150" height="150" src="images/Items.png"> **[Procurement Invoice Classification](https://LalehAE.github.io/pages/Items.html)**
 <div style="text-align: justify;">
- 
-I developed a CatBoost model to classify procurement invoices into more than 30 categories, reaching a macro-average accuracy of 86%. This improved direct spend analysis, made hidden costs more visible, and supported cost saving strategies. I also optimised the post-processing pipeline, reducing its runtime by about 30 percent.
+I developed a CatBoost model to classify procurement invoices into more than 30 categories, reaching a macro-average accuracy of 86%. This improved direct spend analysis, made hidden costs more visible and supported cost saving strategies for the business. I also optimised the post-processing pipeline, reducing its runtime by about 30 percent.
 </div>
 <br>
 <br>
 
 <img align="left" width="150" height="150" src="images/Content.png"> **[Content Recommender Engine](https://LalehAE.github.io/pages/Content.html)**
 <div style="text-align: justify;">
- 
-A multilingual content recommender built with TensorFlow Recommenders, running on Kubeflow and orchestrated with Apache Airflow on GCP. I extended the system to support more than one hundred languages and improved its filtering so users receive current, relevant content. Planned next steps included A/B tests to measure engagement and refine the model.
+I built a multilingual content recommender using TensorFlow Recommenders, running on Kubeflow and orchestrated with Apache Airflow on GCP. I extended the system to support more than one hundred languages and improved the filtering logic so users receive current, relevant content rather than outdated items. Planned next steps included A/B tests to measure engagement and refine the model.
 </div>
 <br>
 
 <img align="left" width="150" height="150" src="images/Social.png"> **[Social Media Recommender Engine](https://LalehAE.github.io/pages/Social.html)**
 <div style="text-align: justify;">
- 
-A proof of concept for social matching that uses deep learning to analyse user data and connect people with similar interests and goals. The system uses LaBSE embeddings and cosine similarity, providing better matches than traditional clustering and preparing the solution for use at larger scale.
+I created a proof of concept for social matching that uses deep learning to analyse user data and connect people with similar interests and goals. The system uses LaBSE embeddings and cosine similarity, providing better matches than traditional clustering and preparing the solution for use at larger scale in community or networking platforms.
 </div>
 <br>
 <br>
 
-
- <img align="left" width="150" height="150" src="images/Cohort.png"> **[Cohort Churn Analysis](https://LalehAE.github.io/pages/Cohort.html)**
+<img align="left" width="150" height="150" src="images/Cohort.png"> **[Cohort Churn Analysis](https://LalehAE.github.io/pages/Cohort.html)**
 <div style="text-align: justify;">
- 
-An analysis of user retention across different membership types. I worked with stakeholders to define churn, secure the required data and build live churn tables and dashboards. The insights informed strategic decisions about which memberships to focus on and how to improve long term retention.
+I carried out a cohort-based churn analysis across different membership types to understand retention patterns over time. Working with stakeholders, I helped define churn, secure the required data and build live churn tables and dashboards. The insights informed strategic decisions about which memberships to focus on and how to improve long-term retention.
 </div>
 <br>
 <br>
