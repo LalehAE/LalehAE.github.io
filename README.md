@@ -5,13 +5,13 @@
 ## About Me
 <div style="text-align: justify;">
 
-I care about responsible, transparent AI: systems that show where their answers come from, respect data boundaries, and keep specialists in control of decisions.
+I care about responsible, transparent AI: systems that show how they arrived at an answer, respect data boundaries, and keep domain experts in control of decisions. I am Laleh, a Lead Data Scientist who designs AI solutions around complex data where accuracy and trust really matter.
 
-I’m Laleh, a Lead Data Scientist who designs AI solutions around complex data where accuracy and trust matter. I have led data and AI work across e-learning, procurement, manufacturing, and, most recently, geotechnical engineering in Canada.
+Most recently, as Lead Data Scientist at TREK Geotechnical in Winnipeg, I led the company’s AI and data modernization roadmap. Instead of putting a chatbot on top of messy legacy files, I designed and implemented a new data foundation: using language models to help clean and consolidate thousands of historical geotechnical files into a structured Postgres/PostGIS database, surfaced through a Google Earth view with location-accuracy flags and a feedback loop so engineers could review and correct critical records.
 
-In my most recent role as Lead Data Scientist at TREK Geotechnical in Winnipeg, I led the company’s AI and data modernization roadmap. Instead of putting a chatbot on top of messy legacy files, I designed and implemented a new data foundation that used AI, including language models, to clean and consolidate thousands of historical geotechnical files into a structured Postgres/PostGIS database, and exposed them through a Google Earth view with location-accuracy flags and a feedback loop so engineers and managers could review and correct critical records. On top of that foundation I designed a secure conversational layer over the enterprise database so geotechnical engineers and researchers could ask multi-step questions in natural language, see results on the map, download KMZ and CSV outputs, and understand which data, filters, and reasoning were used in each answer, while raw data stayed safely inside company systems.
+On top of that foundation I built a secure conversational layer over the enterprise database so geotechnical engineers and researchers can ask multi-step questions in natural language, see results on a map, download KMZ and CSV outputs, and understand which data, filters and reasoning were used in each answer, while raw data stays safely inside company systems.
 
-My best work happens between domain experts, product, and engineering: listening to how people really work, clarifying the problem, shaping the data and AI approach, and guiding it into something teams trust and actually use.
+My best work happens between domain experts, product and engineering: listening to how people really work, clarifying the problem, shaping the data and AI approach, and guiding it into something teams trust and actually use.
 </div>
 <br>
 
