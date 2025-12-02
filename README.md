@@ -20,6 +20,7 @@ My best work happens between domain experts, product and engineering: listening 
 - **Github**: [github.com/LalehAE](https://github.com/LalehAE)
 
 ## Projects
+
 <div style="text-align: justify;">
 Below is a curated selection of projects that show how I approach real-world AI and data problems: from LLM based assistants and agents, to recommender systems, computer vision, and analytics for decision making.
 </div>
@@ -67,15 +68,17 @@ Delving into user retention, this analysis informed strategic adjustments by eva
 <br>
 
 ## Core Competencies
-- **Programming:** Python (NumPy, Pandas, Scikit-Learn, Keras, NLTK, SciPy), SQL, R, Spark
-- **Machine Learning:** Linear Regression, Regularisation (Ridge, Lasso, Elastic), Logistic Regression, Naive Bayes, Decision Tree, Random Forest, CatBoost, XGBoost, LightGBM, K-Nearest Neighbour (KNN), Support Vector Machine (SVM), Clustering (K-Means, Hierarchical Clustering, DBSCAN), Dimension Reduction (PCA, t-SNE), NLP(BERT, LaBSE)
-- **Statistical Analysis:** Descriptive & Inferential Statistics, Regression Modeling & Evaluation, Time Series Forecasting
-- **Technologies:** Large Language Models (LLM), Microsoft Azure Cloud Platform, Databricks, Google Cloud Platform, Airflow, Kubeflow
-- **BI Tools:** Tableau, Google Data Studio
-- **Industries:** Data Infrastructure and Analytics, E-Learning, Technology Information and Internet, Manufacturing
-- **Soft Skills:** Problem-solving, Communication, Leadership, Critical Thinking, Attention to Detail, Cultural Competence
+
+* Programming: Python, SQL, R  
+* Machine Learning: tree-based models (XGBoost, CatBoost, Random Forest, LightGBM), linear and logistic regression, regularisation (Ridge, Lasso, Elastic Net), SVM, KNN, clustering (K-Means, Hierarchical, DBSCAN), dimensionality reduction (PCA, t-SNE), NLP (BERT, LaBSE)  
+* Statistical Analysis: descriptive and inferential statistics, regression modelling and evaluation, time series forecasting  
+* AI & Data Platforms: Large Language Models (LLM), vector databases, Microsoft Azure, Databricks, Google Cloud Platform, Airflow, Kubeflow  
+* BI & Visualisation: Tableau, Google Data Studio, Google Earth, dashboards for decision support  
+* Industries: Data infrastructure and analytics, e-learning, manufacturing, geotechnical engineering  
+* Soft Skills: problem solving, communication, leadership, critical thinking, attention to detail, cultural competence
 
 ## Education
+
 - **MSc, Southern Illinois University**, Computer Science, United States
 
 - **MBA, Industrial Management Institute**, Executive Management, Iran
@@ -84,7 +87,7 @@ Delving into user retention, this analysis informed strategic adjustments by eva
 
 - **BSc, Isfahan University of Technology**, Mathematics, Iran
 
-## CONFConference Publications & Presentations
+## Conference Publications & Presentations
 -	**Laleh, A.** (2019, March). Data Science: Demystifying Technical Terms, Data for Her, Shell Malaysia
 
 -	**Laleh, A.** (2018, June). Data Science Industry, Presentation, British Council Malaysia, [Watch My Talk](https://www.youtube.com/watch?v=Tuuv-X8c5ts)
