@@ -28,41 +28,39 @@ Below is a curated selection of projects that show how I approach real-world AI 
 
 <img align="left" width="150" height="150" src="images/GenAI.png"> **[Autonomous ETL & Data Analytics](https://LalehAE.github.io/pages/GenAI.html)**
 <div style="text-align: justify;">
-Empowering businesses to harness their data effortlessly, this project utilizes AI agents created with OpenAI and LangChain to navigate complex databases, like SAP, without requiring deep database knowledge. It features an innovative AI-driven system that interprets user queries, identifies relevant data, and autonomously generates Python scripts for analysis. The system further advises on visualization and business insights, streamlining decision-making and fostering a culture of data-driven intelligence.
+Empowering business users to work with complex databases without deep technical knowledge. This project uses AI agents built with OpenAI and LangChain to interpret natural language questions, identify relevant data (for example from SAP), and generate Python scripts for analysis. It also suggests visualisations and business insights, helping teams move more easily from raw data to decisions.
 </div>
 <br>
 
 <img align="left" width="150" height="150" src="images/Aircraft.png"> **[Aircraft Turnaround](https://LalehAE.github.io/pages/Aircraft.html)**
 <div style="text-align: justify;">
-Innovating airport operations, this application empowers airline managers with real-time monitoring of aircraft turnaround. It uses advanced computer vision and a Yolo model to analyze CCTV footage, annotate events, and present live dashboards via Azure, reducing delays and enhancing efficiency. 
+This application supports airline and airport operations by monitoring aircraft turnaround in real time. It uses computer vision with a YOLO model to analyse CCTV footage, detect key events, and feed live dashboards on Azure, helping reduce delays and improve efficiency on the apron. 
 </div>
 <br>
 <br>
 
 <img align="left" width="150" height="150" src="images/Items.png"> **[Procurement Invoice Classification](https://LalehAE.github.io/pages/Items.html)**
 <div style="text-align: justify;">
-I developed a Catboost model to classify procurement invoices into more than 30 distinct categories, achieving a macro-average accuracy of 86%. This classification facilitates direct spend analysis, uncovering hidden costs and ensuring spend accuracy, which is vital for creating cost-saving procurement strategies. Additionally, I optimized the existing post-processing procedure, cutting down its runtime by 30%, thereby improving the overall efficiency of the procurement process.
+I developed a CatBoost model to classify procurement invoices into more than 30 categories, reaching a macro-average accuracy of 86%. This improved direct spend analysis, made hidden costs more visible, and supported cost saving strategies. I also optimised the post-processing pipeline, reducing its runtime by about 30 percent.
 </div>
 <br>
 
 <img align="left" width="150" height="150" src="images/Content.png"> **[Content Recommender Engine](https://LalehAE.github.io/pages/Content.html)**
 <div style="text-align: justify;">
-Developed a multilingual content recommender engine using TensorFlow Recommenders (TFRS), fine-tuned with Kubeflow and managed by an Apache Airflow pipeline on GCP. Enhanced the system to support 105 languages, improving the scope and inclusivity of user recommendations. Optimized the recommendation filtering process, ensuring users only receive current and relevant content. Future developments include A/B testing to evaluate user engagement and further refine the recommendation algorithm.
+A multilingual content recommender built with TensorFlow Recommenders, running on Kubeflow and orchestrated with Apache Airflow on GCP. I extended the system to support more than one hundred languages and improved its filtering so users receive current, relevant content. Planned next steps included A/B tests to measure engagement and refine the model.
 </div>
 <br>
 
 <img align="left" width="150" height="150" src="images/Social.png"> **[Social Media Recommender Engine](https://LalehAE.github.io/pages/Social.html)**
 <div style="text-align: justify;">
-
-A cutting-edge POC that transforms social connectivity by leveraging deep learning to analyze user data and match profiles with shared interests and goals. The innovative use of LaBSE for vector embeddings and cosine similarity scores significantly outperforms traditional clustering, readying the system for expansion to a broader user base. 
+A proof of concept for social matching that uses deep learning to analyse user data and connect people with similar interests and goals. The system uses LaBSE embeddings and cosine similarity, providing better matches than traditional clustering and preparing the solution for use at larger scale.
 </div>
 <br>
 <br>
 
  <img align="left" width="150" height="150" src="images/Cohort.png"> **[Cohort Churn Analysis](https://LalehAE.github.io/pages/Cohort.html)**
 <div style="text-align: justify;">
-
-Delving into user retention, this analysis informed strategic adjustments by evaluating churn rates across various memberships. Collaborative efforts in defining churn and securing necessary data culminated in live churn data tables and dashboards, influencing the company's decision to optimize its membership focus. 
+An analysis of user retention across different membership types. I worked with stakeholders to define churn, secure the required data and build live churn tables and dashboards. The insights informed strategic decisions about which memberships to focus on and how to improve long term retention.
 </div>
 <br>
 <br>
