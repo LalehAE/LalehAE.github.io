@@ -61,9 +61,9 @@
             Thousands of legacy files and spreadsheets were then migrated into this structure using automated ETL pipelines.
         </p>
         <p>
-            Where possible, I used <span class="highlight">LLM/NLP-based extraction</span> to assist with reading semi-structured documents and mapping fields into the new schema. 
-            The focus was not on perfect automation, but on reducing manual effort and highlighting records that needed human review. 
-            External datasets such as LiDAR and elevation models were also linked, so that internal and public data could be viewed together.
+            Where possible, I used <span class="highlight">LLM- and NLP-assisted extraction</span> to help read semi-structured documents and map fields into the new schema. 
+    The focus was not on perfect automation, but on reducing manual effort and highlighting records that needed human review. 
+    For elevation, I combined external data sources by using the Google Maps Elevation API together with nearby LiDAR data to compare and correct missing or inaccurate elevation values in the database, improving the vertical accuracy of borehole locations.
         </p>
 
         <h2>Implementation</h2>
@@ -78,8 +78,9 @@
         <p>
             • Each record includes a simple indication of location and attribute confidence<br>
             • Field and design teams can flag questionable points directly from the map<br>
-            • Suggested corrections and comments are fed back into the central database<br>
-            • Over time, this process improves both the geometry and attributes of the data
+            • Suggested corrections and comments are collected<br>
+            • Managers review and approve updates, which are then applied to the central database<br>
+            • Over time this process improves both location accuracy and attributes
         </p>
         <p>
             The platform architecture was kept modular so that new data sources or AI components (such as the geotechnical AI assistant) could be added without redesigning the whole system.
