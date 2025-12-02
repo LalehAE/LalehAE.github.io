@@ -29,14 +29,14 @@ Below is a curated selection of projects that show how I approach real-world AI 
 
 <img align="left" width="150" height="150" src="images/TREK_AI_Assistant.png"> **Geotechnical AI Assistant over Enterprise Data and Reports**
 <div style="text-align: justify;">
-At TREK Geotechnical I designed and built an AI assistant for geotechnical engineers that can answer complex questions over both structured data and technical reports, while keeping sensitive data inside company systems. The assistant uses an agentic LLM workflow to translate multi-step, domain-specific questions into SQL and geospatial queries, and returns results on a map with downloadable KMZ (Google Earth) and CSV outputs. It also explains which data, filters and reasoning were used for each answer, and can summarise PDF-based technical reports through a chat-style interface so complex documentation becomes easier to use for both technical and non-technical stakeholders.
+At TREK Geotechnical I designed an AI assistant that answers complex geotechnical questions over both structured data and technical reports, while keeping sensitive data inside company systems. It uses an agentic LLM workflow to turn multi-step, domain questions into SQL and geospatial queries, and returns results on a map with downloadable KMZ (Google Earth) and CSV files. The assistant also explains which data and filters were used and can summarise PDF reports through a chat-style interface for technical and non-technical users.
 </div>
 <br>
 <br>
 
 <img align="left" width="150" height="150" src="images/TREK_Data_Platform.png"> **Geotechnical Data Platform and Google Earth Feedback Loop**
 <div style="text-align: justify;">
-I led the redesign of TREK’s geotechnical data foundation by consolidating thousands of legacy files into a structured relational geospatial database using automated ETL pipelines and LLM/NLP-based extraction and cleaning. On top of this, I built a Google Earth view that combines internal borehole data with external sources such as LiDAR so engineers can explore all available information for a location in one place. I also designed a validation workflow and feedback loop so field and design teams can flag low-accuracy records, correct them and feed updates back into the central database, steadily improving data reliability and on-the-ground decision making.
+I redesigned TREK’s geotechnical data foundation by consolidating thousands of legacy files into a structured Postgres/PostGIS database using automated ETL and LLM/NLP-based extraction. On top of this, I built a Google Earth view that combines internal borehole data with external sources such as LiDAR so engineers can see everything known about a location in one place. I also added a validation workflow and feedback loop so field and design teams can flag and correct low-accuracy records, steadily improving data quality and decision making.
 </div>
 <br>
 <br>
