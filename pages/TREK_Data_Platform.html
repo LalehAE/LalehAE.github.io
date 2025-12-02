@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geotechnical Data Platform & Google Earth Feedback Loop</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #F4F4F4; /* Light Gray background */
+            color: #333; /* Default text color */
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #FFFFFF; /* White background for content */
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+            color:  #00AEEF; /* Blue for main headings */
+        }
+        h2 {
+            color: #FFA500; /* Orange for subheadings */
+            font-size: 1.5em;
+        }
+        p {
+            color: #666;
+            line-height: 1.6;
+            text-align: justify;
+        }
+        a, .highlight {
+            color: #7D5BA6; /* Purple for links / highlights */
+        }
+        .highlight-purple {
+            background-color: #7D5BA6;
+            color: #FFFFFF;
+            padding: 2px 4px;
+            border-radius: 3px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container" style="text-align: justify;">
+        <h1>Geotechnical Data Platform & Google Earth Feedback Loop</h1>
+        <img src="../images/TREK_Data_Platform.png" alt="Geotechnical Data Platform" style="display: block; margin: 20px auto; width: 300px; height: 300px;">
+
+        <h2>Objective</h2>
+        <p>
+            TREK had decades of geotechnical investigations stored in many different formats and locations, making it hard to reuse past work or see everything known about a site in one place. 
+            The goal of this project was to create a unified geotechnical data platform and a geospatial view that engineers could rely on for planning, design and field work, 
+            while steadily improving data quality over time.
+        </p>
+
+        <h2>Methodology</h2>
+        <p>
+            I started by designing a relational data model in <span class="highlight">Postgres/PostGIS</span> to represent boreholes, samples, tests and related attributes in a consistent way. 
+            Thousands of legacy files and spreadsheets were then migrated into this structure using automated ETL pipelines.
+        </p>
+        <p>
+            Where possible, I used <span class="highlight">LLM/NLP-based extraction</span> to assist with reading semi-structured documents and mapping fields into the new schema. 
+            The focus was not on perfect automation, but on reducing manual effort and highlighting records that needed human review. 
+            External datasets such as LiDAR and elevation models were also linked, so that internal and public data could be viewed together.
+        </p>
+
+        <h2>Implementation</h2>
+        <p>
+            On top of the database, I implemented a <span class="highlight">Google Earth</span> based decision view. 
+            Engineers can zoom to an area of interest and immediately see all known boreholes and investigations, 
+            along with links back to the underlying records, reports and tests.
+        </p>
+        <p>
+            To address data quality concerns, I designed a validation workflow and feedback loop:
+        </p>
+        <p>
+            • Each record includes a simple indication of location and attribute confidence<br>
+            • Field and design teams can flag questionable points directly from the map<br>
+            • Suggested corrections and comments are fed back into the central database<br>
+            • Over time, this process improves both the geometry and attributes of the data
+        </p>
+        <p>
+            The platform architecture was kept modular so that new data sources or AI components (such as the geotechnical AI assistant) could be added without redesigning the whole system.
+        </p>
+
+        <h2>Impact</h2>
+        <p>
+            By consolidating fragmented geotechnical data into a single, geospatially-aware platform, the project made it much easier for engineers and managers to reuse existing investigations, 
+            spot gaps and plan new work. Having a Google Earth based view gave teams an intuitive way to explore the data and quickly see what is known about a site before committing time and budget.
+        </p>
+        <p>
+            The feedback loop turned data quality from a one-off clean-up into an ongoing collaborative process. 
+            As field and design teams used the platform and corrected records, the underlying database became steadily more reliable, 
+            providing a stronger foundation for future analytics and AI initiatives at TREK.
+        </p>
+    </div>
+</body>
+</html>
