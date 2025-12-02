@@ -39,7 +39,7 @@ Innovating airport operations, this application empowers airline managers with r
 <br>
 <br>
 
-<img align="left" width="150" height="150" src="images/Items.png"> **[Procurement Item Classification](https://LalehAE.github.io/pages/Items.html)**
+<img align="left" width="150" height="150" src="images/Items.png"> **[Procurement Invoice Classification](https://LalehAE.github.io/pages/Items.html)**
 <div style="text-align: justify;">
 I developed a Catboost model to classify procurement invoices into more than 30 distinct categories, achieving a macro-average accuracy of 86%. This classification facilitates direct spend analysis, uncovering hidden costs and ensuring spend accuracy, which is vital for creating cost-saving procurement strategies. Additionally, I optimized the existing post-processing procedure, cutting down its runtime by 30%, thereby improving the overall efficiency of the procurement process.
 </div>
