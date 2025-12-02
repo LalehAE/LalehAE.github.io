@@ -56,8 +56,10 @@ A multilingual content recommender built with TensorFlow Recommenders, running o
 
 <img align="left" width="150" height="150" src="images/Social.png"> **[Social Media Recommender Engine](https://LalehAE.github.io/pages/Social.html)**
 <div style="text-align: justify;">
+ 
 A proof of concept for social matching that uses deep learning to analyse user data and connect people with similar interests and goals. The system uses LaBSE embeddings and cosine similarity, providing better matches than traditional clustering and preparing the solution for use at larger scale.
 </div>
+<br>
 <br>
 
 
