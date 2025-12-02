@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geotechnical AI Assistant</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #F4F4F4; /* Light Gray background */
+            color: #333; /* Default text color */
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #FFFFFF; /* White background for content */
+            border-radius: 5px; /* Rounded corners */
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Subtle shadow */
+        }
+        h1 {
+            text-align: center;
+            color:  #00AEEF; /* Blue for main headings */
+        }
+        h2 {
+            color: #FFA500; /* Orange for subheadings */
+            font-size: 1.5em;
+        }
+        p {
+            color: #666;
+            line-height: 1.6;
+            text-align: justify;
+        }
+        a, .highlight {
+            color: #7D5BA6; /* Purple for links / highlights */
+        }
+        .highlight-purple {
+            background-color: #7D5BA6;
+            color: #FFFFFF;
+            padding: 2px 4px;
+            border-radius: 3px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container" style="text-align: justify;">
+        <h1>Geotechnical AI Assistant</h1>
+        <img src="../images/TREK_AI_Assistant.png" alt="Geotechnical AI Assistant" style="display: block; margin: 20px auto; width: 300px; height: 300px;">
+
+        <h2>Objective</h2>
+        <p>
+            At TREK Geotechnical, engineers work with a mix of structured databases and long technical reports when assessing sites and making design decisions. 
+            The objective of this project was to build an AI assistant that could answer complex, multi-step questions over this information in a safe and explainable way, 
+            without exposing raw data outside company systems or replacing expert judgement.
+        </p>
+
+        <h2>Methodology</h2>
+        <p>
+            I designed an <span class="highlight">agentic LLM workflow</span> that combines natural language understanding with SQL generation and geospatial queries. 
+            The assistant receives a user question, decomposes it into smaller steps when needed, and generates parameterised SQL queries against the enterprise database. 
+            Sensitive values are masked before any interaction with the language model so that raw data remains inside internal infrastructure.
+        </p>
+        <p>
+            In parallel, I developed a proof of concept based on <span class="highlight">retrieval-augmented generation (RAG)</span> to work with PDF-based technical reports. 
+            Reports are indexed with embeddings, relevant sections are retrieved for each question, and the LLM uses only those sections to produce summaries and answers, 
+            keeping the context grounded in actual documents rather than hallucinated content.
+        </p>
+
+        <h2>Implementation</h2>
+        <p>
+            On top of the workflow, I implemented a conversational interface where geotechnical engineers and researchers can ask domain-specific questions in natural language. 
+            The system can:
+        </p>
+        <p>
+            • Translate multi-step questions into SQL over a Postgres/PostGIS database<br>
+            • Return tabular and spatial results, including borehole and investigation data<br>
+            • Visualise outputs on a map and export them as <span class="highlight">KMZ (Google Earth)</span> and CSV files<br>
+            • Provide a transparent explanation of which tables, filters and assumptions were used for each answer
+        </p>
+        <p>
+            For reports, the same chat-style interface allows users to request summaries, extract key findings, and ask follow-up questions. 
+            Each answer is linked back to the source sections, so users can quickly verify the context and, if needed, open the original report.
+        </p>
+
+        <h2>Impact</h2>
+        <p>
+            The AI assistant reduced the amount of manual querying and document searching required for common geotechnical questions, 
+            especially for team members who are less comfortable writing SQL or navigating multiple systems. 
+            At the same time, the explainable design and strict data boundaries helped maintain trust: 
+            users can see what the system did, which data it used, and how it arrived at an answer, rather than receiving a “black box” response.
+        </p>
+        <p>
+            This project also acted as a foundation for future AI work at TREK, demonstrating how language models can be introduced in a controlled way in an engineering context, 
+            supporting experts instead of replacing them.
+        </p>
+    </div>
+</body>
+</html>
