@@ -37,8 +37,6 @@ Empowering business users to work with complex databases without deep technical 
 This application supports airline and airport operations by monitoring aircraft turnaround in real time. It uses computer vision with a YOLO model to analyse CCTV footage, detect key events, and feed live dashboards on Azure, helping reduce delays and improve efficiency on the apron. 
 </div>
 <br>
-<br>
-<br>
 
 <img align="left" width="150" height="150" src="images/Items.png"> **[Procurement Invoice Classification](https://LalehAE.github.io/pages/Items.html)**
 <div style="text-align: justify;">
@@ -49,6 +47,7 @@ I developed a CatBoost model to classify procurement invoices into more than 30 
 
 <img align="left" width="150" height="150" src="images/Content.png"> **[Content Recommender Engine](https://LalehAE.github.io/pages/Content.html)**
 <div style="text-align: justify;">
+ 
 A multilingual content recommender built with TensorFlow Recommenders, running on Kubeflow and orchestrated with Apache Airflow on GCP. I extended the system to support more than one hundred languages and improved its filtering so users receive current, relevant content. Planned next steps included A/B tests to measure engagement and refine the model.
 </div>
 <br>
