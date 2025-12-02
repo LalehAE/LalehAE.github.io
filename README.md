@@ -15,13 +15,6 @@ My best work happens between domain experts, product, and engineering: listening
 </div>
 <br>
 
-
-<div style="text-align: justify;">
-
-Each of these attributes, represented through Zach's creative lens, highlights the blend of technical expertise, leadership, and interpersonal skills I bring to the field of data science. It's a reminder of the impact we can have through our work, the value of clear communication and empathy, and the importance of maintaining a positive, earnest approach in all our endeavors.
-    <hr style="width: 50%; border: 1px solid #ccc;">
-</div>
-
 - **Email**: [la.asadzadeh@gmail.com](mailto:la.asadzadeh@gmail.com)
 - **LinkedIn**: [linkedin.com/lalehas](https://www.linkedin.com/in/lalehas/)
 - **Github**: [github.com/LalehAE](https://github.com/LalehAE)
