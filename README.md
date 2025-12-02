@@ -37,7 +37,6 @@ Empowering business users to work with complex databases without deep technical 
 This application supports airline and airport operations by monitoring aircraft turnaround in real time. It uses computer vision with a YOLO model to analyse CCTV footage, detect key events, and feed live dashboards on Azure, helping reduce delays and improve efficiency on the apron. 
 </div>
 <br>
-<br>
 
 <img align="left" width="150" height="150" src="images/Items.png"> **[Procurement Invoice Classification](https://LalehAE.github.io/pages/Items.html)**
 <div style="text-align: justify;">
