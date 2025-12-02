@@ -69,13 +69,13 @@ Delving into user retention, this analysis informed strategic adjustments by eva
 
 ## Core Competencies
 
-* Programming: Python, SQL, R  
-* Machine Learning: tree-based models (XGBoost, CatBoost, Random Forest, LightGBM), linear and logistic regression, regularisation (Ridge, Lasso, Elastic Net), SVM, KNN, clustering (K-Means, Hierarchical, DBSCAN), dimensionality reduction (PCA, t-SNE), NLP (BERT, LaBSE)  
-* Statistical Analysis: descriptive and inferential statistics, regression modelling and evaluation, time series forecasting  
-* AI & Data Platforms: Large Language Models (LLM), vector databases, Microsoft Azure, Databricks, Google Cloud Platform, Airflow, Kubeflow  
-* BI & Visualisation: Tableau, Google Data Studio, Google Earth, dashboards for decision support  
-* Industries: Data infrastructure and analytics, e-learning, manufacturing, geotechnical engineering  
-* Soft Skills: problem solving, communication, leadership, critical thinking, attention to detail, cultural competence
+- **Programming:** Python, SQL, R  
+- **Machine Learning:** tree-based models (XGBoost, CatBoost, Random Forest, LightGBM), linear and logistic regression, regularisation (Ridge, Lasso, Elastic Net), SVM, KNN, clustering (K-Means, Hierarchical, DBSCAN), dimensionality reduction (PCA, t-SNE), NLP (BERT, LaBSE)  
+- **Statistical Analysis:** descriptive and inferential statistics, regression modelling and evaluation, time series forecasting  
+- **AI & Data Platforms:** Large Language Models (LLM), vector databases, Microsoft Azure, Databricks, Google Cloud Platform, Airflow, Kubeflow  
+- **BI & Visualisation:** Tableau, Google Data Studio, Google Earth, dashboards for decision support  
+- **Industries:** Data infrastructure and analytics, e-learning, manufacturing, geotechnical engineering  
+- **Soft Skills:** problem solving, communication, leadership, critical thinking, attention to detail, cultural competence
 
 ## Education
 
