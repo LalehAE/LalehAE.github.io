@@ -7,7 +7,7 @@
 
 I care about responsible, transparent AI: systems that show how they arrived at an answer, respect data boundaries, and keep domain experts in control of decisions. I am Laleh, a Lead Data Scientist who designs AI solutions around complex data where accuracy and trust really matter.
 
-Most recently, as Lead Data Scientist at TREK Geotechnical in Winnipeg, I led the company’s AI and data modernization roadmap. Instead of putting a chatbot on top of messy legacy files, I designed and implemented a new data foundation: using language models to help clean and consolidate thousands of historical geotechnical files into a structured Postgres/PostGIS database, surfaced through a Google Earth view with location-accuracy flags and a feedback loop so engineers could review and correct critical records.
+Most recently, as Lead Data Scientist at TREK Engineering in Winnipeg, I led the company’s AI and data modernization roadmap. Instead of putting a chatbot on top of messy legacy files, I designed and implemented a new data foundation: using language models to help clean and consolidate thousands of historical geotechnical files into a structured Postgres/PostGIS database, surfaced through a Google Earth view with location-accuracy flags and a feedback loop so engineers could review and correct critical records.
 
 On top of that foundation I built a secure conversational layer over the enterprise database so geotechnical engineers and researchers can ask multi-step questions in natural language, see results on a map, download KMZ and CSV outputs, and understand which data, filters and reasoning were used in each answer, while raw data stays safely inside company systems.
 
