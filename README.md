@@ -25,11 +25,13 @@ My best work happens between domain experts, product and engineering: listening 
 Below is a curated selection of projects that show how I approach real-world AI and data problems: from LLM based assistants and agents, to recommender systems, computer vision, and analytics for decision making.
 </div>
 <br>
+<br>
 
 <img align="left" width="150" height="150" src="images/GenAI.png"> **[Autonomous ETL & Data Analytics](https://LalehAE.github.io/pages/GenAI.html)**
 <div style="text-align: justify;">
 Empowering business users to work with complex databases without deep technical knowledge. This project uses AI agents built with OpenAI and LangChain to interpret natural language questions, identify relevant data (for example from SAP), and generate Python scripts for analysis. It also suggests visualisations and business insights, helping teams move more easily from raw data to decisions.
 </div>
+<br>
 <br>
 
 <img align="left" width="150" height="150" src="images/Aircraft.png"> **[Aircraft Turnaround](https://LalehAE.github.io/pages/Aircraft.html)**
