@@ -45,6 +45,7 @@ This application supports airline and airport operations by monitoring aircraft 
 I developed a CatBoost model to classify procurement invoices into more than 30 categories, reaching a macro-average accuracy of 86%. This improved direct spend analysis, made hidden costs more visible, and supported cost saving strategies. I also optimised the post-processing pipeline, reducing its runtime by about 30 percent.
 </div>
 <br>
+<br>
 
 <img align="left" width="150" height="150" src="images/Content.png"> **[Content Recommender Engine](https://LalehAE.github.io/pages/Content.html)**
 <div style="text-align: justify;">
@@ -58,7 +59,7 @@ A multilingual content recommender built with TensorFlow Recommenders, running o
 A proof of concept for social matching that uses deep learning to analyse user data and connect people with similar interests and goals. The system uses LaBSE embeddings and cosine similarity, providing better matches than traditional clustering and preparing the solution for use at larger scale.
 </div>
 <br>
-<br>
+
 
  <img align="left" width="150" height="150" src="images/Cohort.png"> **[Cohort Churn Analysis](https://LalehAE.github.io/pages/Cohort.html)**
 <div style="text-align: justify;">
