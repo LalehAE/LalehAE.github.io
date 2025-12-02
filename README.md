@@ -26,13 +26,13 @@ Below is a curated selection of projects that show how I approach real-world AI 
 </div>
 <br>
 
-<img align="left" width="150" height="150" src="images/TREK_AI_Assistant.png"> **Geotechnical AI Assistant over Enterprise Data and Reports**
+<img align="left" width="150" height="150" src="images/TREK_AI_Assistant.png"> **[Geotechnical AI Assistant over Enterprise Data and Reports](https://LalehAE.github.io/pages/TREK_AI_Assistant.html)**
 <div style="text-align: justify;">
 At TREK Geotechnical I designed an AI assistant that answers complex geotechnical questions over both structured data and technical reports, while keeping sensitive data inside company systems. It uses an agentic LLM workflow to turn multi-step, domain questions into SQL and geospatial queries, and returns results on a map with downloadable KMZ (Google Earth) and CSV files. The assistant also explains which data and filters were used and can summarise PDF reports through a chat-style interface for technical and non-technical users.
 </div>
 <br>
 
-<img align="left" width="150" height="150" src="images/TREK_Data_Platform.png"> **Geotechnical Data Platform and Google Earth Feedback Loop**
+<img align="left" width="150" height="150" src="images/TREK_Data_Platform.png"> **[Geotechnical Data Platform and Google Earth Feedback Loop](https://LalehAE.github.io/pages/TREK_Data_Platform.html)**
 <div style="text-align: justify;">
 I redesigned TREK’s geotechnical data foundation by consolidating thousands of legacy files into a structured Postgres/PostGIS database using automated ETL and LLM/NLP-based extraction. On top of this, I built a Google Earth view that combines internal borehole data with external sources such as LiDAR so engineers can see everything known about a location in one place. I also added a validation workflow and feedback loop so field and design teams can flag and correct low-accuracy records, steadily improving data quality and decision making.
 </div>
