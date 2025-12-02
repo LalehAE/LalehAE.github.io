@@ -34,7 +34,7 @@ At TREK Engineering I designed an AI assistant that answers complex geotechnical
 
 <img align="left" width="150" height="150" src="images/TREK_Data_Platform.png"> **[Geotechnical Data Platform and Google Earth Feedback Loop](https://LalehAE.github.io/pages/TREK_Data_Platform.html)**
 <div style="text-align: justify;">
-I redesigned TREK’s geotechnical data foundation by consolidating thousands of legacy files into a structured Postgres/PostGIS database using automated ETL with LLM/NLP-assisted data extraction and cleaning.
+I redesigned TREK’s geotechnical data foundation by consolidating thousands of legacy files into a structured Postgres/PostGIS database using automated ETL with LLM/NLP-assisted data extraction and cleaning. On top of this, I built a Google Earth view that merges borehole data with LiDAR-enhanced geospatial layers and added a validation and feedback loop so engineers can flag and fix low-accuracy records. This made it much easier to reuse historical investigations and steadily improved data quality for planning and design.
 </div>
 <br>
 
