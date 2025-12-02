@@ -63,6 +63,7 @@ A proof of concept for social matching that uses deep learning to analyse user d
 
  <img align="left" width="150" height="150" src="images/Cohort.png"> **[Cohort Churn Analysis](https://LalehAE.github.io/pages/Cohort.html)**
 <div style="text-align: justify;">
+ 
 An analysis of user retention across different membership types. I worked with stakeholders to define churn, secure the required data and build live churn tables and dashboards. The insights informed strategic decisions about which memberships to focus on and how to improve long term retention.
 </div>
 <br>
