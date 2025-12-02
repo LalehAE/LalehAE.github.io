@@ -21,7 +21,7 @@ My best work happens between domain experts, product and engineering: listening 
 
 ## Projects
 <div style="text-align: justify;">
-Here is a curated collection of my projects, each meticulously detailed with information on the objective, methodology, and implementation. Within this collection, you'll discover comprehensive insights into my projects, with each one thoroughly explained in terms of its objective, methodology, and implementation aspects. Notably, the GenAI project is accompanied by a sample code repository, offering a tangible glimpse into the practical application of its underlying solution.
+Below is a curated selection of projects that show how I approach real-world AI and data problems: from LLM based assistants and agents, to recommender systems, computer vision, and analytics for decision making.
 </div>
 <br>
 
