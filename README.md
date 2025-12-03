@@ -30,7 +30,7 @@ Below is a curated selection of projects that show how I approach real-world AI 
 ### AI Lab – LLM & AI Systems
 <br>
 
-<div style="margin-left: 2rem;">
+<div style="margin-left: 12rem;">
 
 <img align="left" width="170" height="170" src="images/TREK_AI_Assistant.png"> **Geotechnical AI Assistant over Enterprise Data and Reports**
 <div style="text-align: justify;">
@@ -56,6 +56,7 @@ I built an AI agent framework to help business users work with complex databases
 </div>
 <br>
 </div>
+
 <br>
 
 ### Other Projects
