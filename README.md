@@ -82,6 +82,8 @@ I carried out a cohort-based churn analysis across different membership types to
 
 ## Core Competencies
 
+<div style="text-align: justify;">
+  
 - **Programming:** Python, SQL, R  
 - **Machine Learning:** tree-based models (XGBoost, CatBoost, Random Forest, LightGBM), linear and logistic regression, regularisation (Ridge, Lasso, Elastic Net), SVM, KNN, clustering (K-Means, Hierarchical, DBSCAN), dimensionality reduction (PCA, t-SNE), NLP (BERT, LaBSE)  
 - **Statistical Analysis:** descriptive and inferential statistics, regression modelling and evaluation, time series forecasting  
@@ -89,8 +91,11 @@ I carried out a cohort-based churn analysis across different membership types to
 - **BI & Visualisation:** Tableau, Google Data Studio, Google Earth, dashboards for decision support  
 - **Industries:** Data infrastructure and analytics, e-learning, manufacturing, geotechnical engineering  
 - **Soft Skills:** problem solving, communication, leadership, critical thinking, attention to detail, cultural competence
+</div>
 
 ## Education
+
+<div style="text-align: justify;">
 
 - **MSc, Southern Illinois University**, Computer Science, United States
 
@@ -99,13 +104,17 @@ I carried out a cohort-based churn analysis across different membership types to
 - **MSc, Sharif University of Technology**, Mathematics, Iran
 
 - **BSc, Isfahan University of Technology**, Mathematics, Iran
+</div>
 
 ## Conference Publications & Presentations
+<div style="text-align: justify;">
+  
 -	**Laleh, A.** (2019, March). Data Science: Demystifying Technical Terms, Data for Her, Shell Malaysia
 
 -	**Laleh, A.** (2018, June). Data Science Industry, Presentation, British Council Malaysia, [Watch My Talk](https://www.youtube.com/watch?v=Tuuv-X8c5ts)
 
 -	**Laleh, A.**, & Shahram, R. (2017, December). Analyzing Facebook Activities for Personality Recognition. In *Machine Learning and Applications (ICMLA), 2017 16th IEEE International Conference* on (pp. 960-964). IEEE.
+</div>
 
 ## Professional Endorsements
 
