@@ -116,9 +116,9 @@ I carried out a cohort-based churn analysis across different membership types to
 - **Statistical Analysis:** Descriptive and inferential statistics, regression modelling and evaluation, time series forecasting  
 - **BI & Visualisation:** Tableau, Google Data Studio, Google Earth, dashboards for decision support  
 - **Domains / Industries:** Data infrastructure and analytics, e-learning, manufacturing, geotechnical engineering  
-- **Soft Skills:** Problem solving, clear communication with non-technical stakeholders, leadership, critical thinking, attention to detail, cultural competence
-  
+- **Soft Skills:** Problem solving, clear communication with non-technical stakeholders, leadership, critical thinking, attention to detail, cultural competence  
 </div>
+<br>
 
 ## Education
 
@@ -131,7 +131,10 @@ I carried out a cohort-based churn analysis across different membership types to
 - **MSc, Sharif University of Technology**, Mathematics, Iran
 
 - **BSc, Isfahan University of Technology**, Mathematics, Iran
+
+  
 </div>
+<br>
 
 ## Conference Publications & Presentations
 <div style="text-align: justify;">
@@ -141,7 +144,9 @@ I carried out a cohort-based churn analysis across different membership types to
 -	**Laleh, A.** (2018, June). Data Science Industry, Presentation, British Council Malaysia, [Watch My Talk](https://www.youtube.com/watch?v=Tuuv-X8c5ts)
 
 -	**Laleh, A.**, & Shahram, R. (2017, December). Analyzing Facebook Activities for Personality Recognition. In *Machine Learning and Applications (ICMLA), 2017 16th IEEE International Conference* on (pp. 960-964). IEEE.
+  
 </div>
+<br>
 
 ## Professional Endorsements
 
