@@ -30,7 +30,7 @@ Below is a curated selection of projects that show how I approach real-world AI 
 ### AI Lab – LLM & AI Systems
 <br>
 
-<div style="margin-left: 3rem;">
+<div style="margin-left: 3rem;", markdown="1">
 
 <img align="left" width="170" height="170" src="images/TREK_AI_Assistant.png"> **Geotechnical AI Assistant over Enterprise Data and Reports**
 <div style="text-align: justify;">
