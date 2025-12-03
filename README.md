@@ -53,7 +53,6 @@ I built an AI agent framework to help business users work with complex databases
 **[Read more](https://LalehAE.github.io/pages/GenAI.html)**
 </div>
 <br>
-
 <br>
 
 ### Other Projects
@@ -66,7 +65,6 @@ I developed a computer vision solution to monitor aircraft turnaround in real ti
 **[Read more](https://LalehAE.github.io/pages/Aircraft.html)**
 </div>
 <br>
-<br>
 
 <img align="left" width="170" height="170" src="images/Items.png"> **Procurement Invoice Classification**
 <div style="text-align: justify;">
@@ -74,7 +72,6 @@ I developed a CatBoost model to classify procurement invoices into more than 30 
 
 **[Read more](https://LalehAE.github.io/pages/Items.html)**
 </div>
-<br>
 <br>
 
 <img align="left" width="170" height="170" src="images/Content.png"> **Content Recommender Engine**
@@ -92,7 +89,6 @@ I created a proof of concept for social matching that uses deep learning to anal
 **[Read more](https://LalehAE.github.io/pages/Social.html)**
 </div>
 <br>
-<br>
 
 <img align="left" width="170" height="170" src="images/Cohort.png"> **Cohort Churn Analysis**
 <div style="text-align: justify;">
@@ -101,19 +97,18 @@ I carried out a cohort-based churn analysis across different membership types to
 **[Read more](https://LalehAE.github.io/pages/Cohort.html)**
 </div>
 <br>
-<br>
 
 ## Core Competencies
 
 <div style="text-align: justify;">
   
-- **Programming:** Python, SQL, R  
-- **Machine Learning:** tree-based models (XGBoost, CatBoost, Random Forest, LightGBM), linear and logistic regression, regularisation (Ridge, Lasso, Elastic Net), SVM, KNN, clustering (K-Means, Hierarchical, DBSCAN), dimensionality reduction (PCA, t-SNE), NLP (BERT, LaBSE)  
-- **Statistical Analysis:** descriptive and inferential statistics, regression modelling and evaluation, time series forecasting  
-- **AI & Data Platforms:** Large Language Models (LLM), vector databases, Microsoft Azure, Databricks, Google Cloud Platform, Airflow, Kubeflow  
+- **Programming & Data:** Python, SQL, R  
+- **AI & Data Platforms:** Large Language Models (LLMs), vector databases, Microsoft Azure, Databricks, Google Cloud Platform, Airflow, Kubeflow  
+- **Machine Learning:** Tree-based models (XGBoost, LightGBM, CatBoost, Random Forest), linear and logistic regression, regularised models (Ridge, Lasso, Elastic Net), SVM, KNN, clustering (K-Means, Hierarchical, DBSCAN), dimensionality reduction (PCA, t-SNE), NLP (BERT, LaBSE)  
+- **Statistical Analysis:** Descriptive and inferential statistics, regression modelling and evaluation, time series forecasting  
 - **BI & Visualisation:** Tableau, Google Data Studio, Google Earth, dashboards for decision support  
-- **Industries:** Data infrastructure and analytics, e-learning, manufacturing, geotechnical engineering  
-- **Soft Skills:** problem solving, communication, leadership, critical thinking, attention to detail, cultural competence
+- **Domains / Industries:** Data infrastructure and analytics, e-learning, manufacturing, geotechnical engineering  
+- **Soft Skills:** Problem solving, clear communication with non-technical stakeholders, leadership, critical thinking, attention to detail, cultural competence
 </div>
 
 ## Education
