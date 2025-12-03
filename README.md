@@ -116,7 +116,8 @@ I carried out a cohort-based churn analysis across different membership types to
 - **Statistical Analysis:** Descriptive and inferential statistics, regression modelling and evaluation, time series forecasting  
 - **BI & Visualisation:** Tableau, Google Data Studio, Google Earth, dashboards for decision support  
 - **Domains / Industries:** Data infrastructure and analytics, e-learning, manufacturing, geotechnical engineering  
-- **Soft Skills:** Problem solving, clear communication with non-technical stakeholders, leadership, critical thinking, attention to detail, cultural competence  
+- **Soft Skills:** Problem solving, clear communication with non-technical stakeholders, leadership, critical thinking, attention to detail, cultural competence
+  
 </div>
 <br>
 
