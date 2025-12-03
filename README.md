@@ -28,6 +28,9 @@ Below is a curated selection of projects that show how I approach real-world AI 
 <br>
 
 ### AI Lab – LLM & AI Systems
+<br>
+
+<div style="margin-left: 2rem;">
 
 <img align="left" width="150" height="150" src="images/TREK_AI_Assistant.png"> **Geotechnical AI Assistant over Enterprise Data and Reports**
 <div style="text-align: justify;">
@@ -52,6 +55,7 @@ I built an AI agent framework to help business users work with complex databases
 **[Read more](https://LalehAE.github.io/pages/GenAI.html)**
 </div>
 <br>
+</div>
 <br>
 
 ### Other Projects
