@@ -61,38 +61,51 @@ I built an AI agent framework to help business users work with complex databases
 
 ### Other Projects
 
-<img align="left" width="150" height="150" src="images/Aircraft.png"> **[Aircraft Turnaround](https://LalehAE.github.io/pages/Aircraft.html)**
+<div style="margin-left: 3rem;", markdown="1">
+
+<img align="left" width="170" height="170" src="images/Aircraft.png"> **Aircraft Turnaround**
 <div style="text-align: justify;">
 I developed a computer vision solution to monitor aircraft turnaround in real time and support airline and airport operations. Using a YOLO model, the system analyses CCTV footage, detects key events on the apron and streams structured outputs to live dashboards on Azure. This allows operations teams to spot delays earlier, optimise resources and improve turnaround efficiency.
+
+**[Read more](https://LalehAE.github.io/pages/Aircraft.html)**
 </div>
 <br>
 <br>
 
-<img align="left" width="150" height="150" src="images/Items.png"> **[Procurement Invoice Classification](https://LalehAE.github.io/pages/Items.html)**
+<img align="left" width="170" height="170" src="images/Items.png"> **Procurement Invoice Classification**
 <div style="text-align: justify;">
 I developed a CatBoost model to classify procurement invoices into more than 30 categories, reaching a macro-average accuracy of 86%. This improved direct spend analysis, made hidden costs more visible and supported cost saving strategies for the business. I also optimised the post-processing pipeline, reducing its runtime by about 30 percent.
+
+**[Read more](https://LalehAE.github.io/pages/Items.html)**
 </div>
 <br>
 <br>
 
-<img align="left" width="150" height="150" src="images/Content.png"> **[Content Recommender Engine](https://LalehAE.github.io/pages/Content.html)**
+<img align="left" width="170" height="170" src="images/Content.png"> **Content Recommender Engine**
 <div style="text-align: justify;">
 I built a multilingual content recommender using TensorFlow Recommenders, running on Kubeflow and orchestrated with Apache Airflow on GCP. I extended the system to support more than one hundred languages and improved the filtering logic so users receive current, relevant content rather than outdated items. Planned next steps included A/B tests to measure engagement and refine the model.
+
+**[Read more](https://LalehAE.github.io/pages/Content.html)**
 </div>
 <br>
 
-<img align="left" width="150" height="150" src="images/Social.png"> **[Social Media Recommender Engine](https://LalehAE.github.io/pages/Social.html)**
+<img align="left" width="170" height="170" src="images/Social.png"> **Social Media Recommender Engine**
 <div style="text-align: justify;">
 I created a proof of concept for social matching that uses deep learning to analyse user data and connect people with similar interests and goals. The system uses LaBSE embeddings and cosine similarity, providing better matches than traditional clustering and preparing the solution for use at larger scale in community or networking platforms.
+
+**[Read more](https://LalehAE.github.io/pages/Social.html)**
 </div>
 <br>
 <br>
 
-<img align="left" width="150" height="150" src="images/Cohort.png"> **[Cohort Churn Analysis](https://LalehAE.github.io/pages/Cohort.html)**
+<img align="left" width="170" height="170" src="images/Cohort.png"> **Cohort Churn Analysis**
 <div style="text-align: justify;">
 I carried out a cohort-based churn analysis across different membership types to understand retention patterns over time. Working with stakeholders, I helped define churn, secure the required data and build live churn tables and dashboards. The insights informed strategic decisions about which memberships to focus on and how to improve long-term retention.
+
+**[Read more](https://LalehAE.github.io/pages/Cohort.html)**
 </div>
 <br>
+</div>
 <br>
 
 ## Core Competencies
