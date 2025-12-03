@@ -27,9 +27,12 @@ Below is a curated selection of projects that show how I approach real-world AI 
 </div>
 <br>
 
-<img align="left" width="150" height="150" src="images/TREK_AI_Assistant.png"> **[Geotechnical AI Assistant over Enterprise Data and Reports](https://LalehAE.github.io/pages/TREK_AI_Assistant.html)**
+### AI Lab – LLM & AI Systems
+
+<img align="left" width="150" height="150" src="images/TREK_AI_Assistant.png"> **[Geotechnical AI Assistant over Enterprise Data and Reports]**
 <div style="text-align: justify;">
 At TREK Engineering I designed an AI assistant that answers complex geotechnical questions over both structured data and technical reports, while keeping sensitive data inside company systems. It uses an agentic LLM workflow to turn multi-step, domain questions into SQL and geospatial queries, and returns results on a map with downloadable KMZ (Google Earth) and CSV files. The assistant also explains which data and filters were used and can summarise PDF reports through a chat-style interface for technical and non-technical users.
+[Read more →](https://LalehAE.github.io/pages/TREK_AI_Assistant.html)
 </div>
 <br>
 
@@ -45,6 +48,8 @@ I built an AI agent framework to help business users work with complex databases
 </div>
 <br>
 <br>
+
+### Other Projects
 
 <img align="left" width="150" height="150" src="images/Aircraft.png"> **[Aircraft Turnaround](https://LalehAE.github.io/pages/Aircraft.html)**
 <div style="text-align: justify;">
