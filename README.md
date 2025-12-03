@@ -82,13 +82,16 @@ I developed a CatBoost model to classify procurement invoices into more than 30 
 <img align="left" width="170" height="170" src="images/Content.png"> **Content Recommender Engine**
 <div style="text-align: justify;">
 I built a multilingual content recommender using TensorFlow Recommenders, running on Kubeflow and orchestrated with Apache Airflow on GCP. I extended the system to support more than one hundred languages and improved the filtering logic so users receive current, relevant content rather than outdated items. Planned next steps included A/B tests to measure engagement and refine the model.
+  
 <a href="https://LalehAE.github.io/pages/Content.html"><strong>Read more</strong></a>
+
 </div>
 <br>
 
 <img align="left" width="170" height="170" src="images/Social.png"> **Social Media Recommender Engine**
 <div style="text-align: justify;">
 I created a proof of concept for social matching that uses deep learning to analyse user data and connect people with similar interests and goals. The system uses LaBSE embeddings and cosine similarity, providing better matches than traditional clustering and preparing the solution for use at larger scale in community or networking platforms.
+
 <a href="https://LalehAE.github.io/pages/Social.html"><strong>Read more</strong></a>
 
 </div>
@@ -97,6 +100,7 @@ I created a proof of concept for social matching that uses deep learning to anal
 <img align="left" width="170" height="170" src="images/Cohort.png"> **Cohort Churn Analysis**
 <div style="text-align: justify;">
 I carried out a cohort-based churn analysis across different membership types to understand retention patterns over time. Working with stakeholders, I helped define churn, secure the required data and build live churn tables and dashboards. The insights informed strategic decisions about which memberships to focus on and how to improve long-term retention.
+
 <a href="https://LalehAE.github.io/pages/Cohort.html"><strong>Read more</strong></a>
 
 </div>
