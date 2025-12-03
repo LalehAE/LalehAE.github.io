@@ -32,7 +32,7 @@ Below is a curated selection of projects that show how I approach real-world AI 
 
 <div style="margin-left: 2rem;">
 
-<img align="left" width="150" height="150" src="images/TREK_AI_Assistant.png"> **Geotechnical AI Assistant over Enterprise Data and Reports**
+<img align="left" width="170" height="170" src="images/TREK_AI_Assistant.png"> **Geotechnical AI Assistant over Enterprise Data and Reports**
 <div style="text-align: justify;">
 At TREK Engineering I designed an AI assistant that answers complex geotechnical questions over both structured data and technical reports, while keeping sensitive data inside company systems. It uses an agentic LLM workflow to turn multi-step, domain questions into SQL and geospatial queries, and returns results on a map with downloadable KMZ (Google Earth) and CSV files. The assistant also explains which data and filters were used and can summarise PDF reports through a chat-style interface for technical and non-technical users. 
   
@@ -40,7 +40,7 @@ At TREK Engineering I designed an AI assistant that answers complex geotechnical
 </div>
 <br>
 
-<img align="left" width="150" height="150" src="images/TREK_Data_Platform.png"> **Geotechnical Data Platform and Google Earth Feedback Loop**
+<img align="left" width="170" height="170" src="images/TREK_Data_Platform.png"> **Geotechnical Data Platform and Google Earth Feedback Loop**
 <div style="text-align: justify;">
 I redesigned TREK’s geotechnical data foundation by consolidating thousands of legacy files into a structured Postgres/PostGIS database using automated ETL with LLM/NLP-assisted data extraction and cleaning. On top of this, I built a Google Earth view that merges borehole data with LiDAR-enhanced geospatial layers and added a validation and feedback loop so engineers can flag and fix low-accuracy records. This made it much easier to reuse historical investigations and steadily improved data quality for planning and design.
 
@@ -48,7 +48,7 @@ I redesigned TREK’s geotechnical data foundation by consolidating thousands of
 </div>
 <br>
 
-<img align="left" width="150" height="150" src="images/GenAI.png"> **Autonomous ETL & Data Analytics**
+<img align="left" width="170" height="170" src="images/GenAI.png"> **Autonomous ETL & Data Analytics**
 <div style="text-align: justify;">
 I built an AI agent framework to help business users work with complex databases without deep technical knowledge. The system uses OpenAI and LangChain to interpret natural language questions, identify relevant data (for example from SAP), and generate Python scripts for analysis. It also suggests visualisations and business insights, helping teams move more easily from raw data to practical decisions.
 
