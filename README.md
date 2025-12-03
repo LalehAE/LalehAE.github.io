@@ -30,8 +30,6 @@ Below is a curated selection of projects that show how I approach real-world AI 
 ### AI Lab – LLM & AI Systems
 <br>
 
-<div style="margin-left: 3rem;", markdown="1">
-
 <img align="left" width="170" height="170" src="images/TREK_AI_Assistant.png"> **Geotechnical AI Assistant over Enterprise Data and Reports**
 <div style="text-align: justify;">
 At TREK Engineering I designed an AI assistant that answers complex geotechnical questions over both structured data and technical reports, while keeping sensitive data inside company systems. It uses an agentic LLM workflow to turn multi-step, domain questions into SQL and geospatial queries, and returns results on a map with downloadable KMZ (Google Earth) and CSV files. The assistant also explains which data and filters were used and can summarise PDF reports through a chat-style interface for technical and non-technical users. 
@@ -55,13 +53,11 @@ I built an AI agent framework to help business users work with complex databases
 **[Read more](https://LalehAE.github.io/pages/GenAI.html)**
 </div>
 <br>
-</div>
 
 <br>
 
 ### Other Projects
 
-<div style="margin-left: 3rem;", markdown="1">
 
 <img align="left" width="170" height="170" src="images/Aircraft.png"> **Aircraft Turnaround**
 <div style="text-align: justify;">
@@ -105,7 +101,6 @@ I carried out a cohort-based churn analysis across different membership types to
 **[Read more](https://LalehAE.github.io/pages/Cohort.html)**
 </div>
 <br>
-</div>
 <br>
 
 ## Core Competencies
