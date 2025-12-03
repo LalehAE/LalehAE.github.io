@@ -36,8 +36,6 @@ At TREK Engineering I designed an AI assistant that answers complex geotechnical
 
 <a href="https://LalehAE.github.io/pages/TREK_AI_Assistant.html"><strong>Read more</strong></a>
 
-
-  
 </div>
 <br>
 
@@ -45,7 +43,7 @@ At TREK Engineering I designed an AI assistant that answers complex geotechnical
 <div style="text-align: justify;">
 I redesigned TREK’s geotechnical data foundation by consolidating thousands of legacy files into a structured Postgres/PostGIS database using automated ETL with LLM/NLP-assisted data extraction and cleaning. On top of this, I built a Google Earth view that merges borehole data with LiDAR-enhanced geospatial layers and added a validation and feedback loop so engineers can flag and fix low-accuracy records. This made it much easier to reuse historical investigations and steadily improved data quality for planning and design.
 
-  **[Read more](https://LalehAE.github.io/pages/TREK_Data_Platform.html)**
+<a href="https://LalehAE.github.io/pages/TREK_Data_Platform.html"><strong>Read more</strong></a>
   
 </div>
 <br>
@@ -54,8 +52,8 @@ I redesigned TREK’s geotechnical data foundation by consolidating thousands of
 <div style="text-align: justify;">
 I built an AI agent framework to help business users work with complex databases without deep technical knowledge. The system uses OpenAI and LangChain to interpret natural language questions, identify relevant data (for example from SAP), and generate Python scripts for analysis. It also suggests visualisations and business insights, helping teams move more easily from raw data to practical decisions.
 
-  **[Read more](https://LalehAE.github.io/pages/GenAI.html)**
-  
+<a href="https://LalehAE.github.io/pages/GenAI.html"><strong>Read more</strong></a>
+
 </div>
 <br>
 <br>
@@ -67,7 +65,8 @@ I built an AI agent framework to help business users work with complex databases
 <div style="text-align: justify;">
 I developed a computer vision solution to monitor aircraft turnaround in real time and support airline and airport operations. Using a YOLO model, the system analyses CCTV footage, detects key events on the apron and streams structured outputs to live dashboards on Azure. This allows operations teams to spot delays earlier, optimise resources and improve turnaround efficiency.
 
-**[Read more](https://LalehAE.github.io/pages/Aircraft.html)**
+<a href="https://LalehAE.github.io/pages/Aircraft.html"><strong>Read more</strong></a>
+
 </div>
 <br>
 
@@ -75,31 +74,31 @@ I developed a computer vision solution to monitor aircraft turnaround in real ti
 <div style="text-align: justify;">
 I developed a CatBoost model to classify procurement invoices into more than 30 categories, reaching a macro-average accuracy of 86%. This improved direct spend analysis, made hidden costs more visible and supported cost saving strategies for the business. I also optimised the post-processing pipeline, reducing its runtime by about 30 percent.
 
-**[Read more](https://LalehAE.github.io/pages/Items.html)**
+<a href="https://LalehAE.github.io/pages/Items.html"><strong>Read more</strong></a>
+
 </div>
 <br>
 
 <img align="left" width="170" height="170" src="images/Content.png"> **Content Recommender Engine**
 <div style="text-align: justify;">
 I built a multilingual content recommender using TensorFlow Recommenders, running on Kubeflow and orchestrated with Apache Airflow on GCP. I extended the system to support more than one hundred languages and improved the filtering logic so users receive current, relevant content rather than outdated items. Planned next steps included A/B tests to measure engagement and refine the model.
-
-**[Read more](https://LalehAE.github.io/pages/Content.html)**
+<a href="https://LalehAE.github.io/pages/Content.html"><strong>Read more</strong></a>
 </div>
 <br>
 
 <img align="left" width="170" height="170" src="images/Social.png"> **Social Media Recommender Engine**
 <div style="text-align: justify;">
 I created a proof of concept for social matching that uses deep learning to analyse user data and connect people with similar interests and goals. The system uses LaBSE embeddings and cosine similarity, providing better matches than traditional clustering and preparing the solution for use at larger scale in community or networking platforms.
+<a href="https://LalehAE.github.io/pages/Social.html"><strong>Read more</strong></a>
 
-**[Read more](https://LalehAE.github.io/pages/Social.html)**
 </div>
 <br>
 
 <img align="left" width="170" height="170" src="images/Cohort.png"> **Cohort Churn Analysis**
 <div style="text-align: justify;">
 I carried out a cohort-based churn analysis across different membership types to understand retention patterns over time. Working with stakeholders, I helped define churn, secure the required data and build live churn tables and dashboards. The insights informed strategic decisions about which memberships to focus on and how to improve long-term retention.
+<a href="https://LalehAE.github.io/pages/Cohort.html"><strong>Read more</strong></a>
 
-**[Read more](https://LalehAE.github.io/pages/Cohort.html)**
 </div>
 <br>
 
