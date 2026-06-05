@@ -107,7 +107,6 @@ I carried out a cohort-based churn analysis across different membership types to
 <br>
 
 ## Core Competencies
-<div style="text-align: justify;">
   
 **Programming & Data:** Python, SQL, R 
 
@@ -123,11 +122,9 @@ I carried out a cohort-based churn analysis across different membership types to
 
 **Soft Skills:** Problem solving, clear communication with non-technical stakeholders, leadership, critical thinking, attention to detail, cultural competence
   
-</div>
 <br>
 
 ## Education
-<div style="text-align: justify;">
 
 **MSc, Southern Illinois University**, Computer Science, United States
   
@@ -137,11 +134,9 @@ I carried out a cohort-based churn analysis across different membership types to
 
 **BSc, Isfahan University of Technology**, Mathematics, Iran
 
-</div>
 <br>
 
 ## Conference Publications & Presentations
-<div style="text-align: justify;">
   
 **Laleh, A.** (2019, March). *Data Science: Demystifying Technical Terms*, Data for Her, Shell Malaysia
 
@@ -149,7 +144,6 @@ I carried out a cohort-based churn analysis across different membership types to
 
 **Laleh, A.**, & Shahram, R. (2017, December). Analyzing Facebook Activities for Personality Recognition. In *Machine Learning and Applications (ICMLA), 2017 16th IEEE International Conference* on (pp. 960-964). IEEE.
   
-</div>
 <br>
 
 ## Professional Endorsements
