@@ -126,9 +126,7 @@ I carried out a cohort-based churn analysis across different membership types to
 <div style="text-align: justify;">
 
 - **MSc, Southern Illinois University**, Computer Science, United States
-
 - **MBA, Industrial Management Institute**, Executive Management, Iran
-
 - **MSc, Sharif University of Technology**, Mathematics, Iran
 
 - **BSc, Isfahan University of Technology**, Mathematics, Iran
