@@ -107,6 +107,7 @@ I carried out a cohort-based churn analysis across different membership types to
 <br>
 
 ## Core Competencies
+
 <div style="text-align: justify;">
   
 - **Programming & Data:** Python, SQL, R  
