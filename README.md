@@ -107,7 +107,6 @@ I carried out a cohort-based churn analysis across different membership types to
 <br>
 
 ## Core Competencies
-
 <div style="text-align: justify;">
   
 - **Programming & Data:** Python, SQL, R  
@@ -122,7 +121,6 @@ I carried out a cohort-based churn analysis across different membership types to
 <br>
 
 ## Education
-
 <div style="text-align: justify;">
 
 - **MSc, Southern Illinois University**, Computer Science, United States
@@ -137,7 +135,6 @@ I carried out a cohort-based churn analysis across different membership types to
 <br>
 
 ## Conference Publications & Presentations
-
 <div style="text-align: justify;">
   
 -	**Laleh, A.** (2019, March). Data Science: Demystifying Technical Terms, Data for Her, Shell Malaysia
