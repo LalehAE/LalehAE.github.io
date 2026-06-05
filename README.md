@@ -123,8 +123,6 @@ I carried out a cohort-based churn analysis across different membership types to
 
 ## Education
 
-<div style="text-align: justify;">
-
 - **MSc, Southern Illinois University**, Computer Science, United States
   
 - **MBA, Industrial Management Institute**, Executive Management, Iran
@@ -133,12 +131,9 @@ I carried out a cohort-based churn analysis across different membership types to
 
 - **BSc, Isfahan University of Technology**, Mathematics, Iran
 
-  
-</div>
 <br>
 
 ## Conference Publications & Presentations
-<div style="text-align: justify;">
   
 -	**Laleh, A.** (2019, March). Data Science: Demystifying Technical Terms, Data for Her, Shell Malaysia
 
@@ -146,7 +141,6 @@ I carried out a cohort-based churn analysis across different membership types to
 
 -	**Laleh, A.**, & Shahram, R. (2017, December). Analyzing Facebook Activities for Personality Recognition. In *Machine Learning and Applications (ICMLA), 2017 16th IEEE International Conference* on (pp. 960-964). IEEE.
   
-</div>
 <br>
 
 ## Professional Endorsements
