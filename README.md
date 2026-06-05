@@ -18,7 +18,7 @@ My best work happens between domain experts, product, and engineering: listening
 
 - **Email**: [la.asadzadeh@gmail.com](mailto:la.asadzadeh@gmail.com)
 - **LinkedIn**: [linkedin.com/lalehas](https://www.linkedin.com/in/lalehas/)
-- **Github**: [github.com/LalehAE](https://github.com/LalehAE)
+- **GitHub**: [github.com/LalehAE](https://github.com/LalehAE)
 
 ## Projects
 
@@ -109,13 +109,19 @@ I carried out a cohort-based churn analysis across different membership types to
 ## Core Competencies
 <div style="text-align: justify;">
   
-- **Programming & Data:** Python, SQL, R  
-- **AI & Data Platforms:** Large Language Models (LLMs), vector databases, Microsoft Azure, Databricks, Google Cloud Platform, Airflow, Kubeflow  
-- **Machine Learning:** Tree-based models (XGBoost, LightGBM, CatBoost, Random Forest), linear and logistic regression, regularised models (Ridge, Lasso, Elastic Net), SVM, KNN, clustering (K-Means, Hierarchical, DBSCAN), dimensionality reduction (PCA, t-SNE), NLP (BERT, LaBSE)  
-- **Statistical Analysis:** Descriptive and inferential statistics, regression modelling and evaluation, time series forecasting  
-- **BI & Visualisation:** Tableau, Google Data Studio, Google Earth, dashboards for decision support  
-- **Domains / Industries:** Data infrastructure and analytics, e-learning, manufacturing, geotechnical engineering  
-- **Soft Skills:** Problem solving, clear communication with non-technical stakeholders, leadership, critical thinking, attention to detail, cultural competence
+**Programming & Data:** Python, SQL, R 
+
+**AI & Data Platforms:** Large Language Models (LLMs), vector databases, Microsoft Azure, Databricks, Google Cloud Platform, Airflow, Kubeflow  
+
+**Machine Learning:** Tree-based models (XGBoost, LightGBM, CatBoost, Random Forest), linear and logistic regression, regularised models (Ridge, Lasso, Elastic Net), SVM, KNN, clustering (K-Means, Hierarchical, DBSCAN), dimensionality reduction (PCA, t-SNE), NLP (BERT, LaBSE)
+
+**Statistical Analysis:** Descriptive and inferential statistics, regression modelling and evaluation, time series forecasting  
+
+**BI & Visualisation:** Tableau, Google Data Studio, Google Earth, dashboards for decision support  
+
+**Domains / Industries:** Data infrastructure and analytics, e-learning, manufacturing, geotechnical engineering  
+
+**Soft Skills:** Problem solving, clear communication with non-technical stakeholders, leadership, critical thinking, attention to detail, cultural competence
   
 </div>
 <br>
@@ -123,13 +129,13 @@ I carried out a cohort-based churn analysis across different membership types to
 ## Education
 <div style="text-align: justify;">
 
-- **MSc, Southern Illinois University**, Computer Science, United States
+**MSc, Southern Illinois University**, Computer Science, United States
   
-- **MBA, Industrial Management Institute**, Executive Management, Iran
+**MBA, Industrial Management Institute**, Executive Management, Iran
   
-- **MSc, Sharif University of Technology**, Mathematics, Iran
+**MSc, Sharif University of Technology**, Mathematics, Iran
 
-- **BSc, Isfahan University of Technology**, Mathematics, Iran
+**BSc, Isfahan University of Technology**, Mathematics, Iran
 
 </div>
 <br>
@@ -137,11 +143,11 @@ I carried out a cohort-based churn analysis across different membership types to
 ## Conference Publications & Presentations
 <div style="text-align: justify;">
   
--	**Laleh, A.** (2019, March). Data Science: Demystifying Technical Terms, Data for Her, Shell Malaysia
+**Laleh, A.** (2019, March). *Data Science: Demystifying Technical Terms*, Data for Her, Shell Malaysia
 
--	**Laleh, A.** (2018, June). Data Science Industry, Presentation, British Council Malaysia, [Watch My Talk](https://www.youtube.com/watch?v=Tuuv-X8c5ts)
+**Laleh, A.** (2018, June). Data Science Industry, Presentation, British Council Malaysia, [Watch My Talk](https://www.youtube.com/watch?v=Tuuv-X8c5ts)
 
--	**Laleh, A.**, & Shahram, R. (2017, December). Analyzing Facebook Activities for Personality Recognition. In *Machine Learning and Applications (ICMLA), 2017 16th IEEE International Conference* on (pp. 960-964). IEEE.
+**Laleh, A.**, & Shahram, R. (2017, December). Analyzing Facebook Activities for Personality Recognition. In *Machine Learning and Applications (ICMLA), 2017 16th IEEE International Conference* on (pp. 960-964). IEEE.
   
 </div>
 <br>
