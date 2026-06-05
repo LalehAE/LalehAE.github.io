@@ -107,34 +107,41 @@ I carried out a cohort-based churn analysis across different membership types to
 <br>
 
 ## Core Competencies
-  
-**Programming & Data:** Python, SQL, R 
 
-**AI & Data Platforms:** Large Language Models (LLMs), vector databases, Microsoft Azure, Databricks, Google Cloud Platform, Airflow, Kubeflow  
+<ul>
+  <li><strong>Programming & Data:</strong> Python, SQL, R</li>
+  <li><strong>AI & Data Platforms:</strong> Large Language Models (LLMs), vector databases, Microsoft Azure, Databricks, Google Cloud Platform, Airflow, Kubeflow</li>
+  <li><strong>Machine Learning:</strong> Tree-based models including XGBoost, LightGBM, CatBoost, and Random Forest; linear and logistic regression; regularized models including Ridge, Lasso, and Elastic Net; SVM, KNN, clustering, dimensionality reduction, and NLP models including BERT and LaBSE</li>
+  <li><strong>Statistical Analysis:</strong> Descriptive and inferential statistics, regression modeling and evaluation, and time series forecasting</li>
+  <li><strong>BI & Visualization:</strong> Tableau, Google Data Studio, Google Earth, and dashboards for decision support</li>
+  <li><strong>Domains / Industries:</strong> Data infrastructure and analytics, e-learning, manufacturing, and geotechnical engineering</li>
+  <li><strong>Soft Skills:</strong> Problem solving, clear communication with non-technical stakeholders, leadership, critical thinking, attention to detail, and cultural competence</li>
+</ul>
 
-**Machine Learning:** Tree-based models (XGBoost, LightGBM, CatBoost, Random Forest), linear and logistic regression, regularised models (Ridge, Lasso, Elastic Net), SVM, KNN, clustering (K-Means, Hierarchical, DBSCAN), dimensionality reduction (PCA, t-SNE), NLP (BERT, LaBSE)
-
-**Statistical Analysis:** Descriptive and inferential statistics, regression modelling and evaluation, time series forecasting  
-
-**BI & Visualisation:** Tableau, Google Data Studio, Google Earth, dashboards for decision support  
-
-**Domains / Industries:** Data infrastructure and analytics, e-learning, manufacturing, geotechnical engineering  
-
-**Soft Skills:** Problem solving, clear communication with non-technical stakeholders, leadership, critical thinking, attention to detail, cultural competence
-  
 <br>
 
 ## Education
 
-**MSc, Southern Illinois University**, Computer Science, United States
-  
-**MBA, Industrial Management Institute**, Executive Management, Iran
-  
-**MSc, Sharif University of Technology**, Mathematics, Iran
-
-**BSc, Isfahan University of Technology**, Mathematics, Iran
+<ul>
+  <li><strong>MSc, Computer Science</strong> — Southern Illinois University, United States</li>
+  <li><strong>MBA, Executive Management</strong> — Industrial Management Institute, Iran</li>
+  <li><strong>MSc, Mathematics</strong> — Sharif University of Technology, Iran</li>
+  <li><strong>BSc, Mathematics</strong> — Isfahan University of Technology, Iran</li>
+</ul>
 
 <br>
+
+## Conference Publications & Presentations
+
+<ul>
+  <li><strong>Laleh, A.</strong> (2019, March). <em>Data Science: Demystifying Technical Terms</em>. Data for Her, Shell Malaysia.</li>
+
+  <li><strong>Laleh, A.</strong> (2018, June). <em>Data Science Industry</em>. Presentation, British Council Malaysia. 
+    <a href="https://www.youtube.com/watch?v=Tuuv-X8c5ts">Watch my talk</a>.
+  </li>
+
+  <li><strong>Laleh, A.</strong>, & Shahram, R. (2017, December). <em>Analyzing Facebook Activities for Personality Recognition</em>. In <em>Machine Learning and Applications (ICMLA), 2017 16th IEEE International Conference</em> (pp. 960–964). IEEE.</li>
+</ul>
 
 ## Conference Publications & Presentations
   
